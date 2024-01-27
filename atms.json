@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-01-27T05:13:02.801Z",
-    "TotalResults": 735,
+    "LastUpdated": "2024-01-26T06:23:26.282Z",
+    "TotalResults": 780,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -2355,6 +2355,47 @@
               }
             },
             {
+              "Identification": "AI019118",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400519"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PADDINGTON E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "15-17 Praed Street,Paddington,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "W2 1NJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.518865",
+                      "Longitude": "-0.169429"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AI019125",
               "SupportedLanguages": [
                 "en",
@@ -2513,6 +2554,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5394101",
                       "Longitude": "-0.1426694"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ019274",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400519"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PADDINGTON I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "15-17 Praed Street,Paddington,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "W2 1NJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.518865",
+                      "Longitude": "-0.169429"
                     }
                   }
                 }
@@ -3792,6 +3874,76 @@
               }
             },
             {
+              "Identification": "AB004044",
+              "SupportedLanguages": [],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401824"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CREWE I1"
+                },
+                "PostalAddress": {
+                  "TownName": "3",
+                  "Country": "GB",
+                  "PostCode": "CW1 2ES",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.095058",
+                      "Longitude": "-2.44177"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AE392740",
+              "SupportedLanguages": [],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401824"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CREWE E1"
+                },
+                "PostalAddress": {
+                  "TownName": "3",
+                  "Country": "GB",
+                  "PostCode": "CW1 2ES",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.095058",
+                      "Longitude": "-2.44177"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AB004036",
               "SupportedLanguages": [
                 "en",
@@ -4196,6 +4348,88 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.5302106",
                       "Longitude": "-3.6099301"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AD541223",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "404433"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "TROWBRIDGE"
+                },
+                "PostalAddress": {
+                  "StreetName": "46 Fore Street",
+                  "TownName": "TROWBRIDGE",
+                  "Country": "GB",
+                  "PostCode": "BA14 8EL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.3209041",
+                      "Longitude": "-2.2072714"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AH012520",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404433"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "TROWBRIDGE I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "46 Fore Street",
+                  "TownName": "TROWBRIDGE",
+                  "Country": "GB",
+                  "PostCode": "BA14 8EL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.3209041",
+                      "Longitude": "-2.2072714"
                     }
                   }
                 }
@@ -4609,6 +4843,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.6537361",
                       "Longitude": "-3.0205201"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB010411",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW E3"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street, Glasgow",
+                  "TownName": "GLASGOW",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.86417",
+                      "Longitude": "-4.25322"
                     }
                   }
                 }
@@ -6250,6 +6525,88 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.0628815",
                       "Longitude": "-1.316483"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB007231",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401022"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BIRKENHEAD E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "31 Grange Road, The Pyramids",
+                  "TownName": "BIRKENHEAD",
+                  "Country": "GB",
+                  "PostCode": "CH41 2ZL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.3893122",
+                      "Longitude": "-3.0255546"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AC007390",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401022"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BIRKENHEAD E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "31 Grange Road, The Pyramids",
+                  "TownName": "BIRKENHEAD",
+                  "Country": "GB",
+                  "PostCode": "CH41 2ZL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.3893122",
+                      "Longitude": "-3.0255546"
                     }
                   }
                 }
@@ -9421,6 +9778,88 @@
               }
             },
             {
+              "Identification": "AB017315",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "EXETER",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.7254795",
+                      "Longitude": "-3.5280497"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AD007579",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "EXETER",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.7254795",
+                      "Longitude": "-3.5280497"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AF006414",
               "SupportedLanguages": [
                 "en",
@@ -9579,6 +10018,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.6485718",
                       "Longitude": "-3.0057185"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AI019117",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404230"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOUTHPORT I3"
+                },
+                "PostalAddress": {
+                  "StreetName": "331 Lord Street",
+                  "TownName": "SOUTHPORT",
+                  "Country": "GB",
+                  "PostCode": "PR8 1NJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.6485472",
+                      "Longitude": "-3.005719"
                     }
                   }
                 }
@@ -10359,6 +10839,88 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.2045506",
                       "Longitude": "0.1227386"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB638251",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402310"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HARLOW I3"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Broad Walk",
+                  "TownName": "HARLOW",
+                  "Country": "GB",
+                  "PostCode": "CM20 1JA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.76951",
+                      "Longitude": "0.0942478"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ019273",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402310"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HARLOW E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Broad Walk",
+                  "TownName": "HARLOW",
+                  "Country": "GB",
+                  "PostCode": "CM20 1JA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.76951",
+                      "Longitude": "0.0942478"
                     }
                   }
                 }
@@ -12334,6 +12896,88 @@
               }
             },
             {
+              "Identification": "AA370687",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARL.ST.2"
+                },
+                "PostalAddress": {
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8XS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.9589831",
+                      "Longitude": "-1.0809013"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AA371529",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARL ST 6"
+                },
+                "PostalAddress": {
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8XS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.9589831",
+                      "Longitude": "-1.0809013"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AA371530",
               "SupportedLanguages": [
                 "en",
@@ -12564,6 +13208,47 @@
               "Location": {
                 "Site": {
                   "Name": "YORK PARL E4"
+                },
+                "PostalAddress": {
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8XS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.9589831",
+                      "Longitude": "-1.0809013"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AI012414",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARL ST 9"
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street, York, North",
@@ -12904,6 +13589,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.3237776",
                       "Longitude": "-3.8289816"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AE542807",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403007"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LLANDUDNO MI3"
+                },
+                "PostalAddress": {
+                  "StreetName": "61 Mostyn Street",
+                  "TownName": "LLANDUDNO",
+                  "Country": "GB",
+                  "PostCode": "LL30 2SF",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.3239175",
+                      "Longitude": "-3.8285351"
                     }
                   }
                 }
@@ -15659,6 +16386,88 @@
               }
             },
             {
+              "Identification": "AI019119",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401186"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BIRMINGHAM I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "1 Centenary Square",
+                  "TownName": "BIRMINGHAM",
+                  "Country": "GB",
+                  "PostCode": "B1 1HQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.4786173",
+                      "Longitude": "-1.9070553"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ019275",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "401186"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BIRMINGHAM I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "1 Centenary Square",
+                  "TownName": "BIRMINGHAM",
+                  "Country": "GB",
+                  "PostCode": "B1 1HQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.4786173",
+                      "Longitude": "-1.9070553"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AJ019283",
               "SupportedLanguages": [
                 "en",
@@ -16053,6 +16862,47 @@
               "Location": {
                 "Site": {
                   "Name": "FARNBOROUGH I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "30 Princemead Shopping Centre",
+                  "TownName": "FARNBOROUGH",
+                  "Country": "GB",
+                  "PostCode": "GU14 6YA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.2918278",
+                      "Longitude": "-0.7578561"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AI007737",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403545"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "FARNBOROUGH E1"
                 },
                 "PostalAddress": {
                   "StreetName": "30 Princemead Shopping Centre",
@@ -17458,6 +18308,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5151813",
                       "Longitude": "-0.301984"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AF006381",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404609"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "WEMBLEY HIGH E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "584 High Road",
+                  "TownName": "WEMBLEY",
+                  "Country": "GB",
+                  "PostCode": "HA0 2DB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.5520941",
+                      "Longitude": "-0.2993904"
                     }
                   }
                 }
@@ -19268,6 +20159,129 @@
               }
             },
             {
+              "Identification": "AA003629",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AD340187",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AH353626",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401822"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CRAWLEY I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "9 The Boulevard",
+                  "TownName": "CRAWLEY",
+                  "Country": "GB",
+                  "PostCode": "RH10 1UT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.116805",
+                      "Longitude": "-0.1875421"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AJ015708",
               "SupportedLanguages": [
                 "en",
@@ -20499,6 +21513,47 @@
               }
             },
             {
+              "Identification": "AA007032",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400216"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CLAPHAM JNC E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "241 Lavender Hill, Clapham Junction",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "SW11 1LH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.4641097",
+                      "Longitude": "-0.1639583"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AA007071",
               "SupportedLanguages": [
                 "en",
@@ -20698,6 +21753,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5117678",
                       "Longitude": "-0.1315131"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB000376",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400244"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CANARY WHRF E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "Unit8, Canary Wharf,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "E14 5AH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.505429",
+                      "Longitude": "-0.017817"
                     }
                   }
                 }
@@ -22385,6 +23481,88 @@
               }
             },
             {
+              "Identification": "AI019115",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400244"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CANARY WHRF I8"
+                },
+                "PostalAddress": {
+                  "StreetName": "Unit8, Canary Wharf,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "E14 5AH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.505435",
+                      "Longitude": "-0.016508"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AI019116",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400244"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CANARY WHRF E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "Unit8, Canary Wharf,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "E14 5AH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.50493",
+                      "Longitude": "-0.017332"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AJ006912",
               "SupportedLanguages": [
                 "en",
@@ -22461,6 +23639,88 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5067734",
                       "Longitude": "-0.1431564"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ017007",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400113"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BELGRAVIA E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "333 Vauxhall Bridge Road, Belgravia",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "SW1V 1EJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.4960017",
+                      "Longitude": "-0.1425876"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ019271",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "400244"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CANARY WHRF I7"
+                },
+                "PostalAddress": {
+                  "StreetName": "Unit8, Canary Wharf,London",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "E14 5AH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.505429",
+                      "Longitude": "-0.017332"
                     }
                   }
                 }
@@ -23330,6 +24590,129 @@
               }
             },
             {
+              "Identification": "AJ002621",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LON E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "NORWICH",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.6290879",
+                      "Longitude": "1.294498"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ019277",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LON E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "NORWICH",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.6290879",
+                      "Longitude": "1.294498"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB381838",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402224"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GRIMSBY E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "55 Victoria Street",
+                  "TownName": "GRIMSBY",
+                  "Country": "GB",
+                  "PostCode": "DN31 1UX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.5657493",
+                      "Longitude": "-0.0850984"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AC322116",
               "SupportedLanguages": [
                 "en",
@@ -23355,6 +24738,47 @@
               "Location": {
                 "Site": {
                   "Name": "GRIMSBY I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "55 Victoria Street",
+                  "TownName": "GRIMSBY",
+                  "Country": "GB",
+                  "PostCode": "DN31 1UX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.5657493",
+                      "Longitude": "-0.0850984"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AG014026",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "402224"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GRIMSBY I1"
                 },
                 "PostalAddress": {
                   "StreetName": "55 Victoria Street",
@@ -24268,6 +25692,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.6715564",
                       "Longitude": "-4.6986459"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AB017276",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403310"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MOLD I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "22 High Street, Mold, Flintshire",
+                  "TownName": "MOLD",
+                  "Country": "GB",
+                  "PostCode": "CH7 1AR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.167336",
+                      "Longitude": "3.142137"
                     }
                   }
                 }
@@ -25848,6 +27314,48 @@
               }
             },
             {
+              "Identification": "AF011641",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "400226"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EALING BWAY E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 260, 46 The Broadway, Ealing",
+                  "TownName": "LONDON",
+                  "Country": "GB",
+                  "PostCode": "W5 5JR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.7124639",
+                      "Longitude": "-3.4433048"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AH351258",
               "SupportedLanguages": [
                 "en",
@@ -26078,6 +27586,88 @@
               "Location": {
                 "Site": {
                   "Name": "BRISTOL CAB I1"
+                },
+                "PostalAddress": {
+                  "StreetName": "62 George White Street, Cabot Circus",
+                  "TownName": "BRISTOL",
+                  "Country": "GB",
+                  "PostCode": "BS1 3BA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.4581413",
+                      "Longitude": "-2.5858271"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ006887",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BRISTOL CAB E2"
+                },
+                "PostalAddress": {
+                  "StreetName": "62 George White Street, Cabot Circus",
+                  "TownName": "BRISTOL",
+                  "Country": "GB",
+                  "PostCode": "BS1 3BA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.4581413",
+                      "Longitude": "-2.5858271"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AJ016974",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BRISTOL CAB E1"
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street, Cabot Circus",
@@ -26583,6 +28173,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.3944735",
                       "Longitude": "-1.5066745"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AC362138",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "401857"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CVNTRY CATH E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "5-6 High Street",
+                  "TownName": "COVENTRY",
+                  "Country": "GB",
+                  "PostCode": "CV1 5RE",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.4076844",
+                      "Longitude": "-1.5094243"
                     }
                   }
                 }
@@ -27157,6 +28788,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.8136584",
                       "Longitude": "-0.4012658"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AH006764",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "404725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "WORTHING E1"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Warwick Street",
+                  "TownName": "WORTHING",
+                  "Country": "GB",
+                  "PostCode": "BN11 3DE",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.811878",
+                      "Longitude": "-0.3697153"
                     }
                   }
                 }
@@ -29633,6 +31305,47 @@
               }
             },
             {
+              "Identification": "AA000031",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE CITYE3"
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE UPON TYNE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.9737683",
+                      "Longitude": "-1.6126202"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AA411138",
               "SupportedLanguages": [
                 "en",
@@ -29740,6 +31453,129 @@
               "Location": {
                 "Site": {
                   "Name": "NEWCASTLE CITY I2"
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE UPON TYNE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.9737683",
+                      "Longitude": "-1.6126202"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AE011406",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE CITY E"
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE UPON TYNE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.9737683",
+                      "Longitude": "-1.6126202"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AE422751",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "5",
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE CITYE1"
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE UPON TYNE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.9737683",
+                      "Longitude": "-1.6126202"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "AG353332",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "MobilePhoneTopUp",
+                "Balance",
+                "MiniStatement",
+                "CharityDonation"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "10",
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCSTLE CITYE2"
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
