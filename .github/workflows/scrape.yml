@@ -3,6 +3,8 @@ name: Scrape latest ATMs data
 on:
   push:
   workflow_dispatch:
+  schedule:
+  - cron: '23 02 * * *'
 
 jobs:
   scheduled:
