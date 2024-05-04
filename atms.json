@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-05-02T07:15:27.964Z",
-    "TotalResults": 1079,
+    "LastUpdated": "2024-05-03T07:15:25.035Z",
+    "TotalResults": 1062,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -3711,88 +3711,6 @@
               }
             },
             {
-              "Identification": "AC332122",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401626"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CASTLEFORD E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 Bank Street",
-                  "TownName": "CASTLEFORD",
-                  "Country": "GB",
-                  "PostCode": "WF10 1EA",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.7258937",
-                      "Longitude": "-1.3534426"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AG012429",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401627"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CASTLEFORD I2"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 Bank Street",
-                  "TownName": "CASTLEFORD",
-                  "Country": "GB",
-                  "PostCode": "WF10 1EA",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.7258937",
-                      "Longitude": "-1.3534426"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AA013720",
               "SupportedLanguages": [
                 "en",
@@ -5237,129 +5155,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.9785926",
                       "Longitude": "-0.0240303"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AB010425",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM I2"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "HORSHAM",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.0623446",
-                      "Longitude": "-0.3295708"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AD340682",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "5",
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "HORSHAM",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.0623446",
-                      "Longitude": "-0.3295708"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AH343621",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "HORSHAM",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.0623446",
-                      "Longitude": "-0.3295708"
                     }
                   }
                 }
@@ -8119,129 +7914,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.723274",
                       "Longitude": "-1.904889"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AB017273",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403426"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NEWPORT IOW"
-                },
-                "PostalAddress": {
-                  "StreetName": "101 St James Street",
-                  "TownName": "NEWPORT",
-                  "Country": "GB",
-                  "PostCode": "PO30 1HX",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "50.6990784",
-                      "Longitude": "-1.2953538"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AD370934",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403426"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NEWPORT I.O.W."
-                },
-                "PostalAddress": {
-                  "StreetName": "101 St James Street",
-                  "TownName": "NEWPORT",
-                  "Country": "GB",
-                  "PostCode": "PO30 1HX",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "50.6990784",
-                      "Longitude": "-1.2953538"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AG012270",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403426"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NEWPORT IOW I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "101 St James Street",
-                  "TownName": "NEWPORT",
-                  "Country": "GB",
-                  "PostCode": "PO30 1HX",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "50.6990784",
-                      "Longitude": "-1.2953538"
                     }
                   }
                 }
@@ -11437,47 +11109,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.545752",
                       "Longitude": "-0.479164"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AC015386",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403913"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "RUISLIP E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "65 High Street",
-                  "TownName": "RUISLIP",
-                  "Country": "GB",
-                  "PostCode": "HA4 8JE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5745123",
-                      "Longitude": "-0.4246412"
                     }
                   }
                 }
@@ -21058,47 +20689,6 @@
               }
             },
             {
-              "Identification": "AC017435",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401115"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BHAM KINGS I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "96 High Street, Kings Heath",
-                  "TownName": "BIRMINGHAM",
-                  "Country": "GB",
-                  "PostCode": "B14 7LD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.4350855",
-                      "Longitude": "-1.8930077"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AC302101",
               "SupportedLanguages": [
                 "en",
@@ -21380,47 +20970,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.4788137",
                       "Longitude": "-1.8976639"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ019283",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "5",
-              "Branch": {
-                "Identification": "401115"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BHAM KINGS E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "96 High Street, Kings Heath",
-                  "TownName": "BIRMINGHAM",
-                  "Country": "GB",
-                  "PostCode": "B14 7LD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.4350855",
-                      "Longitude": "-1.8930077"
                     }
                   }
                 }
@@ -24186,6 +23735,48 @@
               }
             },
             {
+              "Identification": "A24A0166",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400437"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MUSWELL HILL"
+                },
+                "PostalAddress": {
+                  "StreetName": "88 The Broadway, Muswell Hill, London",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "N10 3RX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.590001",
+                      "Longitude": "-0.143975"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A0165",
               "SupportedLanguages": [
                 "en",
@@ -24386,47 +23977,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5151813",
                       "Longitude": "-0.301984"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AC412162",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400437"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MUSWELL HILL E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "88 The Broadway, Muswell Hill",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "N10 3RX",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5899244",
-                      "Longitude": "-0.1438547"
                     }
                   }
                 }
@@ -30041,47 +29591,6 @@
               }
             },
             {
-              "Identification": "AC000290",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400621"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LONDON BRDG I2"
-                },
-                "PostalAddress": {
-                  "StreetName": "28 Borough High Street, Southwark",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SE1 1YB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5046463",
-                      "Longitude": "-0.0905008"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AC010230",
               "SupportedLanguages": [
                 "en",
@@ -30861,47 +30370,6 @@
               }
             },
             {
-              "Identification": "AH006710",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400621"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LONDON BRDG I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "28 Borough High Street, Southwark",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SE1 1YB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5046463",
-                      "Longitude": "-0.0905008"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AH393649",
               "SupportedLanguages": [
                 "en",
@@ -31019,47 +30487,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5067734",
                       "Longitude": "-0.1431564"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AI009027",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400621"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LONDON BRDG I3"
-                },
-                "PostalAddress": {
-                  "StreetName": "28 Borough High Street, Southwark",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SE1 1YB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5046463",
-                      "Longitude": "-0.0905008"
                     }
                   }
                 }
@@ -34312,88 +33739,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.722847",
                       "Longitude": "-1.861888"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AA004051",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403201"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANSFIELD I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 Leeming Street",
-                  "TownName": "MANSFIELD",
-                  "Country": "GB",
-                  "PostCode": "NG18 1LU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.1446095",
-                      "Longitude": "-1.1960709"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AF480691",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403201"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANSFIELD E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 Leeming Street",
-                  "TownName": "MANSFIELD",
-                  "Country": "GB",
-                  "PostCode": "NG18 1LU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.1446095",
-                      "Longitude": "-1.1960709"
                     }
                   }
                 }
@@ -44068,47 +43413,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.9737683",
                       "Longitude": "-1.6126202"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AA420145",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401852"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CRAMLINGTON E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "Bamburgh House, Town Centre",
-                  "TownName": "CRAMLINGTON",
-                  "Country": "GB",
-                  "PostCode": "NE23 6QE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "55.085343",
-                      "Longitude": "-1.5893565"
                     }
                   }
                 }
