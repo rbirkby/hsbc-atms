@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-05-28T05:28:37.299Z",
-    "TotalResults": 1095,
+    "LastUpdated": "2024-05-29T05:28:47.662Z",
+    "TotalResults": 1120,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -14919,6 +14919,90 @@
               }
             },
             {
+              "Identification": "M01M1135",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402310"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HARLOW"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Broad Walk",
+                  "TownName": "Harlow",
+                  "Country": "GB",
+                  "PostCode": "CM20 1JA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.7695422",
+                      "Longitude": "0.0944171"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1137",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402310"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HARLOW"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Broad Walk",
+                  "TownName": "Harlow",
+                  "Country": "GB",
+                  "PostCode": "CM20 1JA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.7695422",
+                      "Longitude": "0.0944171"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0662",
               "SupportedLanguages": [
                 "en",
@@ -15164,6 +15248,258 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.7425412",
                       "Longitude": "-3.8852995"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A24A1128",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1129",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1130",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1131",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1132",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1133",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401710"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHELTENHAM PROMENADE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 The Promenade",
+                  "TownName": "Cheltenham",
+                  "Country": "GB",
+                  "PostCode": "GL50 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.9007316",
+                      "Longitude": "-2.0750213"
                     }
                   }
                 }
@@ -21288,6 +21624,48 @@
               }
             },
             {
+              "Identification": "M01M1099",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401714"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTER EASTGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "47 Eastgate Street",
+                  "TownName": "Chester",
+                  "Country": "GB",
+                  "PostCode": "CH1 1XW",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.190837",
+                      "Longitude": "-2.889101"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0114",
               "SupportedLanguages": [
                 "en",
@@ -21330,6 +21708,174 @@
               }
             },
             {
+              "Identification": "M02M1100",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401714"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTER EASTGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "47 Eastgate Street",
+                  "TownName": "Chester",
+                  "Country": "GB",
+                  "PostCode": "CH1 1XW",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.190837",
+                      "Longitude": "-2.889101"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1101",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401714"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTER EASTGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "47 Eastgate Street",
+                  "TownName": "Chester",
+                  "Country": "GB",
+                  "PostCode": "CH1 1XW",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.190837",
+                      "Longitude": "-2.889101"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1102",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401714"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTER EASTGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "47 Eastgate Street",
+                  "TownName": "Chester",
+                  "Country": "GB",
+                  "PostCode": "CH1 1XW",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.190837",
+                      "Longitude": "-2.889101"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1103",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401714"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTER EASTGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "47 Eastgate Street",
+                  "TownName": "Chester",
+                  "Country": "GB",
+                  "PostCode": "CH1 1XW",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.190837",
+                      "Longitude": "-2.889101"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A0218",
               "SupportedLanguages": [
                 "en",
@@ -21366,6 +21912,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.48716",
                       "Longitude": "-1.912864"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A0973",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404212"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOLIHULL"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Poplar Road ",
+                  "TownName": "Solihull",
+                  "Country": "GB",
+                  "PostCode": "B91 3AF",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.414638",
+                      "Longitude": "-1.779076"
                     }
                   }
                 }
@@ -21988,6 +22576,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.478866",
                       "Longitude": "-1.906925"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M0972",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404212"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOLIHULL"
+                },
+                "PostalAddress": {
+                  "StreetName": "34 Poplar Road ",
+                  "TownName": "Solihull",
+                  "Country": "GB",
+                  "PostCode": "B91 3AF",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.414638",
+                      "Longitude": "-1.779076"
                     }
                   }
                 }
@@ -24455,6 +25085,49 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.734421",
                       "Longitude": "0.472796"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1146",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400901"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BALA"
+                },
+                "PostalAddress": {
+                  "StreetName": "56 High Street",
+                  "TownName": "Bala",
+                  "Country": "GB",
+                  "PostCode": "LL23 7ND",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.910484",
+                      "Longitude": "-3.597937"
                     }
                   }
                 }
@@ -29953,6 +30626,48 @@
               }
             },
             {
+              "Identification": "A24A0203",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": " 79 PICCADILLY"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Piccadilly",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "W1J 8EU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.506771",
+                      "Longitude": "-0.143198"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A24A0696",
               "SupportedLanguages": [
                 "en",
@@ -31436,6 +32151,48 @@
               }
             },
             {
+              "Identification": "M01M0202",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": " 79 PICCADILLY"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Piccadilly",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "W1J 8EU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.506771",
+                      "Longitude": "-0.143198"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0426",
               "SupportedLanguages": [
                 "en",
@@ -31856,6 +32613,48 @@
               }
             },
             {
+              "Identification": "M02M0204",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": " 79 PICCADILLY"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Piccadilly",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "W1J 8EU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.506771",
+                      "Longitude": "-0.143198"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0427",
               "SupportedLanguages": [
                 "en",
@@ -32186,6 +32985,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.46225",
                       "Longitude": "-0.11518"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M0205",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": " 79 PICCADILLY"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Piccadilly",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "W1J 8EU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.506771",
+                      "Longitude": "-0.143198"
                     }
                   }
                 }
@@ -33316,6 +34157,92 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.09745",
                       "Longitude": "-2.441007"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1139",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400809"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "ABERYSTWYTH "
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Great Darkgate Street",
+                  "TownName": "Aberystwyth",
+                  "Country": "GB",
+                  "PostCode": "SY23 1DE",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.414738",
+                      "Longitude": "-4.084735"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1140",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400809"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "ABERYSTWYTH "
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Great Darkgate Street",
+                  "TownName": "Aberystwyth",
+                  "Country": "GB",
+                  "PostCode": "SY23 1DE",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.414738",
+                      "Longitude": "-4.084735"
                     }
                   }
                 }
@@ -36201,6 +37128,48 @@
               }
             },
             {
+              "Identification": "A25A1122",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401918"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "DISS"
+                },
+                "PostalAddress": {
+                  "StreetName": "1 Mount Street",
+                  "TownName": "Diss",
+                  "Country": "GB",
+                  "PostCode": "IP22 4QD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.377518",
+                      "Longitude": "1.108599"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0108",
               "SupportedLanguages": [
                 "en",
@@ -38458,6 +39427,48 @@
               }
             },
             {
+              "Identification": "A25A0242",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BRISTOL KINGSWOOD"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Regent Street",
+                  "TownName": "Kingswood",
+                  "Country": "GB",
+                  "PostCode": "BS15 8LH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.462603",
+                      "Longitude": "-2.507801"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AA017145",
               "SupportedLanguages": [
                 "en",
@@ -38781,6 +39792,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.45813",
                       "Longitude": "-2.58579"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M0243",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BRISTOL KINGSWOOD"
+                },
+                "PostalAddress": {
+                  "StreetName": "79 Regent Street",
+                  "TownName": "Kingswood",
+                  "Country": "GB",
+                  "PostCode": "BS15 8LH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.462603",
+                      "Longitude": "-2.507801"
                     }
                   }
                 }
