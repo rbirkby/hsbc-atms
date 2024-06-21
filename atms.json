@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-06-19T05:28:45.349Z",
-    "TotalResults": 1111,
+    "LastUpdated": "2024-06-20T05:28:46.522Z",
+    "TotalResults": 1108,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -5297,88 +5297,6 @@
               }
             },
             {
-              "Identification": "AB621989",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401230"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOSTON E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "53-54 Market Place",
-                  "TownName": "BOSTON",
-                  "Country": "GB",
-                  "PostCode": "PE21 6LS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.9785926",
-                      "Longitude": "-0.0240303"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ006926",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401230"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOSTON I3"
-                },
-                "PostalAddress": {
-                  "StreetName": "53-54 Market Place",
-                  "TownName": "BOSTON",
-                  "Country": "GB",
-                  "PostCode": "PE21 6LS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.9785926",
-                      "Longitude": "-0.0240303"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1081",
               "SupportedLanguages": [
                 "en",
@@ -6679,47 +6597,6 @@
               }
             },
             {
-              "Identification": "AA015275",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "402225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "GUERNSEY AIRPORT"
-                },
-                "PostalAddress": {
-                  "StreetName": "Terminal Building",
-                  "TownName": "GUERNSEY",
-                  "Country": "GB",
-                  "PostCode": "GY8 0DS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "49.4318649",
-                      "Longitude": "-2.5967752"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "A25A0171",
               "SupportedLanguages": [
                 "en",
@@ -7174,6 +7051,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.229131",
                       "Longitude": "-0.540624"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1250",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404622"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "WEYBRIDGE"
+                },
+                "PostalAddress": {
+                  "StreetName": "HSBC Church Street",
+                  "TownName": "Weybridge",
+                  "Country": "GB",
+                  "PostCode": "KT13 8DF",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.371616",
+                      "Longitude": "-0.46179"
                     }
                   }
                 }
@@ -8976,47 +8895,6 @@
               }
             },
             {
-              "Identification": "AH383641",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "404526"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WATERLOOVILLE1"
-                },
-                "PostalAddress": {
-                  "StreetName": "312 London Road",
-                  "TownName": "WATERLOOVILLE",
-                  "Country": "GB",
-                  "PostCode": "PO7 7DX",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "50.8805448",
-                      "Longitude": "-1.0303645"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AC461112",
               "SupportedLanguages": [
                 "en",
@@ -9229,6 +9107,132 @@
               }
             },
             {
+              "Identification": "A25A1192",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404143"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SHEFFIELD CRYSTAL PEAKS"
+                },
+                "PostalAddress": {
+                  "StreetName": "Crystal Peaks Shopping Centre, 10 Peaks Square",
+                  "TownName": "Sheffield",
+                  "Country": "GB",
+                  "PostCode": "S20 7PH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.341607",
+                      "Longitude": "-1.353395"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1190",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404143"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SHEFFIELD CRYSTAL PEAKS"
+                },
+                "PostalAddress": {
+                  "StreetName": "Crystal Peaks Shopping Centre, 10 Peaks Square",
+                  "TownName": "Sheffield",
+                  "Country": "GB",
+                  "PostCode": "S20 7PH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.341607",
+                      "Longitude": "-1.353395"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1191",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404143"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SHEFFIELD CRYSTAL PEAKS"
+                },
+                "PostalAddress": {
+                  "StreetName": "Crystal Peaks Shopping Centre, 10 Peaks Square",
+                  "TownName": "Sheffield",
+                  "Country": "GB",
+                  "PostCode": "S20 7PH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.341607",
+                      "Longitude": "-1.353395"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0478",
               "SupportedLanguages": [
                 "en",
@@ -9349,6 +9353,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.79958",
                       "Longitude": "-1.090663"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1168",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401324"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BRIDGNORTH"
+                },
+                "PostalAddress": {
+                  "StreetName": "43A High Street",
+                  "TownName": "Bridgnorth",
+                  "Country": "GB",
+                  "PostCode": "WV16 4DD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.534714",
+                      "Longitude": "-2.419703"
                     }
                   }
                 }
@@ -10221,6 +10267,48 @@
               }
             },
             {
+              "Identification": "M01M1202",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404328"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SUTTON COLDFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "67 The Parade",
+                  "TownName": "Sutton Coldfield",
+                  "Country": "GB",
+                  "PostCode": "B72 1PL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.5617285",
+                      "Longitude": "-1.8231309"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0623",
               "SupportedLanguages": [
                 "en",
@@ -10299,6 +10387,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.633209",
                       "Longitude": "-1.695877"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1203",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404328"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SUTTON COLDFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "67 The Parade",
+                  "TownName": "Sutton Coldfield",
+                  "Country": "GB",
+                  "PostCode": "B72 1PL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.5617285",
+                      "Longitude": "-1.8231309"
                     }
                   }
                 }
@@ -10515,6 +10645,48 @@
               }
             },
             {
+              "Identification": "M04M1201",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404328"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SUTTON COLDFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "67 The Parade",
+                  "TownName": "Sutton Coldfield",
+                  "Country": "GB",
+                  "PostCode": "B72 1PL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.5617285",
+                      "Longitude": "-1.8231309"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M05M0626",
               "SupportedLanguages": [
                 "en",
@@ -10551,6 +10723,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.683933",
                       "Longitude": "-1.827647"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1205",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404328"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SUTTON COLDFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "67 The Parade",
+                  "TownName": "Sutton Coldfield",
+                  "Country": "GB",
+                  "PostCode": "B72 1PL",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.5617285",
+                      "Longitude": "-1.8231309"
                     }
                   }
                 }
@@ -11514,6 +11728,48 @@
               }
             },
             {
+              "Identification": "M01M1188",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404214"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOUTHALL BROADWAY"
+                },
+                "PostalAddress": {
+                  "StreetName": "28 The Broadway",
+                  "TownName": "Southall",
+                  "Country": "GB",
+                  "PostCode": "UB1 1PU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.511551",
+                      "Longitude": "-0.376826"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0122",
               "SupportedLanguages": [
                 "en",
@@ -11598,6 +11854,48 @@
               }
             },
             {
+              "Identification": "M02M1186",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404214"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOUTHALL BROADWAY"
+                },
+                "PostalAddress": {
+                  "StreetName": "28 The Broadway",
+                  "TownName": "Southall",
+                  "Country": "GB",
+                  "PostCode": "UB1 1PU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.511551",
+                      "Longitude": "-0.376826"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M0740",
               "SupportedLanguages": [
                 "en",
@@ -11676,6 +11974,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.574509",
                       "Longitude": "-0.424646"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1187",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404214"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOUTHALL BROADWAY"
+                },
+                "PostalAddress": {
+                  "StreetName": "28 The Broadway",
+                  "TownName": "Southall",
+                  "Country": "GB",
+                  "PostCode": "UB1 1PU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.511551",
+                      "Longitude": "-0.376826"
                     }
                   }
                 }
@@ -14138,170 +14478,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.114544",
                       "Longitude": "-3.310255"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AE562815",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401608"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CAMBRDG CTY I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "63-64 St Andrews Street",
-                  "TownName": "CAMBRIDGE",
-                  "Country": "GB",
-                  "PostCode": "CB2 3BZ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.2045506",
-                      "Longitude": "0.1227386"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AH016834",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401608"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CAMBRDG CTY E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "63-64 St Andrews Street",
-                  "TownName": "CAMBRIDGE",
-                  "Country": "GB",
-                  "PostCode": "CB2 3BZ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.2045506",
-                      "Longitude": "0.1227386"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ006903",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401608"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CAMBRDG CTY E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "63-64 St Andrews Street",
-                  "TownName": "CAMBRIDGE",
-                  "Country": "GB",
-                  "PostCode": "CB2 3BZ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.2045506",
-                      "Longitude": "0.1227386"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ016988",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401608"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "CAMBRDG CTY I2"
-                },
-                "PostalAddress": {
-                  "StreetName": "63-64 St Andrews Street",
-                  "TownName": "CAMBRIDGE",
-                  "Country": "GB",
-                  "PostCode": "CB2 3BZ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.2045506",
-                      "Longitude": "0.1227386"
                     }
                   }
                 }
@@ -18269,47 +18445,6 @@
               }
             },
             {
-              "Identification": "AC440318",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIMBLEDON E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "5 Wimbledon Hill Road, Wimbledon",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW19 7NF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.421414",
-                      "Longitude": "-0.2072315"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AF543122",
               "SupportedLanguages": [
                 "en",
@@ -18345,129 +18480,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5092252",
                       "Longitude": "-0.1946816"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AG443381",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIMBLEDON E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "5 Wimbledon Hill Road, Wimbledon",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW19 7NF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.421414",
-                      "Longitude": "-0.2072315"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AH583747",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIMBLEDON E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "5 Wimbledon Hill Road, Wimbledon",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW19 7NF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.421414",
-                      "Longitude": "-0.2072315"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AI012377",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIMBLEDON I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "5 Wimbledon Hill Road, Wimbledon",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW19 7NF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.421414",
-                      "Longitude": "-0.2072315"
                     }
                   }
                 }
@@ -18550,47 +18562,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5092252",
                       "Longitude": "-0.1946816"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ012643",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIMBLEDON I2"
-                },
-                "PostalAddress": {
-                  "StreetName": "5 Wimbledon Hill Road, Wimbledon",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW19 7NF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.421414",
-                      "Longitude": "-0.2072315"
                     }
                   }
                 }
@@ -30901,47 +30872,6 @@
               }
             },
             {
-              "Identification": "AC412167",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400410"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "KNIGHTSBRDG I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "102 Brompton Road, Knightsbridge",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW3 1JJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.4994271",
-                      "Longitude": "-0.1643685"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AC481199",
               "SupportedLanguages": [
                 "en",
@@ -31387,47 +31317,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.5113471",
                       "Longitude": "-0.1248473"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AI002345",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400410"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "KNIGHTSBRDG E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "102 Brompton Road, Knightsbridge",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SW3 1JJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.4994271",
-                      "Longitude": "-0.1643685"
                     }
                   }
                 }
@@ -34989,6 +34878,132 @@
               }
             },
             {
+              "Identification": "A25A1212",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400913"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARNSTAPLE"
+                },
+                "PostalAddress": {
+                  "StreetName": "10 High Street",
+                  "TownName": "Barnstaple",
+                  "Country": "GB",
+                  "PostCode": "EX31 1BQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.079411",
+                      "Longitude": "-4.059352"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1213",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400913"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARNSTAPLE"
+                },
+                "PostalAddress": {
+                  "StreetName": "10 High Street",
+                  "TownName": "Barnstaple",
+                  "Country": "GB",
+                  "PostCode": "EX31 1BQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.079411",
+                      "Longitude": "-4.059352"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1214",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400913"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARNSTAPLE"
+                },
+                "PostalAddress": {
+                  "StreetName": "10 High Street",
+                  "TownName": "Barnstaple",
+                  "Country": "GB",
+                  "PostCode": "EX31 1BQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.079411",
+                      "Longitude": "-4.059352"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A0141",
               "SupportedLanguages": [
                 "en",
@@ -38001,48 +38016,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.2952329",
                       "Longitude": "-3.728015"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AD010762",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de",
-                "cy"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "403730"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PWLLHELI"
-                },
-                "PostalAddress": {
-                  "StreetName": "48 High Street",
-                  "TownName": "PWLLHELI",
-                  "Country": "GB",
-                  "PostCode": "LL53 5SE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.8897704",
-                      "Longitude": "-4.4163326"
                     }
                   }
                 }
@@ -42853,47 +42826,6 @@
               }
             },
             {
-              "Identification": "AC491189",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "400735"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WOOLWICH E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "15 Wellington Street, Woolwich",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SE18 6PH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.4897003",
-                      "Longitude": "0.0663069"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "AC492206",
               "SupportedLanguages": [
                 "en",
@@ -43093,47 +43025,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.4055826",
                       "Longitude": "0.0142774"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AG503416",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "5",
-              "Branch": {
-                "Identification": "400735"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WOOLWICH E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "15 Wellington Street, Woolwich",
-                  "TownName": "LONDON",
-                  "Country": "GB",
-                  "PostCode": "SE18 6PH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.4897003",
-                      "Longitude": "0.0663069"
                     }
                   }
                 }
