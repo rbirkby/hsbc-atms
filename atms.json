@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-07-17T04:45:40.395Z",
-    "TotalResults": 1110,
+    "LastUpdated": "2024-07-18T04:45:45.587Z",
+    "TotalResults": 1126,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -340,129 +340,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.1488168",
                       "Longitude": "0.8735929"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AE588604",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "5",
-              "Branch": {
-                "Identification": "401915"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "DRBY ST PTR E3"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
-                  "Country": "GB",
-                  "PostCode": "DE1 2AE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.9200018",
-                      "Longitude": "-1.4757001"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AF430911",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401915"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "DRBY ST PTR E2"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
-                  "Country": "GB",
-                  "PostCode": "DE1 2AE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.9200018",
-                      "Longitude": "-1.4757001"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AF433065",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "401915"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "DRBY ST PTR E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
-                  "Country": "GB",
-                  "PostCode": "DE1 2AE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.9200018",
-                      "Longitude": "-1.4757001"
                     }
                   }
                 }
@@ -4851,6 +4728,49 @@
               }
             },
             {
+              "Identification": "A25A1331",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403014"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LLANGEFNI"
+                },
+                "PostalAddress": {
+                  "StreetName": "High Street",
+                  "TownName": "Llangefni",
+                  "Country": "GB",
+                  "PostCode": "LL77 7LU",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.255585",
+                      "Longitude": "-4.311629"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "AB004036",
               "SupportedLanguages": [
                 "en",
@@ -5434,6 +5354,48 @@
               }
             },
             {
+              "Identification": "M01M1324",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Preston Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A24A0156",
               "SupportedLanguages": [
                 "en",
@@ -5648,7 +5610,7 @@
               }
             },
             {
-              "Identification": "M03M0031",
+              "Identification": "M02M0031",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -5818,48 +5780,6 @@
             },
             {
               "Identification": "M04M1039",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402247"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "GLASGOW - BUCHANAN STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "2 Buchanan Street",
-                  "TownName": "Glasgow",
-                  "Country": "GB",
-                  "PostCode": "G1 3LB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "55.858501",
-                      "Longitude": "-4.254375"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "T26S1040",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -7579,7 +7499,7 @@
               }
             },
             {
-              "Identification": "A26A0671",
+              "Identification": "A25A0671",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -13583,7 +13503,7 @@
               }
             },
             {
-              "Identification": "M01M0007",
+              "Identification": "M08M0007",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -16083,88 +16003,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "49.199592",
                       "Longitude": "-2.079117"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AH016789",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "5",
-              "Branch": {
-                "Identification": "404632"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIGAN GRAND E1"
-                },
-                "PostalAddress": {
-                  "StreetName": "21 The Grand Arcade",
-                  "TownName": "WIGAN",
-                  "Country": "GB",
-                  "PostCode": "WN1 1BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.546391",
-                      "Longitude": "-2.628832"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "AJ012682",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "MinimumPossibleAmount": "10",
-              "Branch": {
-                "Identification": "404632"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WIGAN GRAND I1"
-                },
-                "PostalAddress": {
-                  "StreetName": "21 The Grand Arcade",
-                  "TownName": "WIGAN",
-                  "Country": "GB",
-                  "PostCode": "WN1 1BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.546391",
-                      "Longitude": "-2.628832"
                     }
                   }
                 }
@@ -23317,6 +23155,258 @@
               }
             },
             {
+              "Identification": "M01M1305",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1306",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1307",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1308",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1310",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1311",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 105, 33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0945",
               "SupportedLanguages": [
                 "en",
@@ -24157,7 +24247,7 @@
               }
             },
             {
-              "Identification": "A24A0153",
+              "Identification": "A25A0153",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -25790,6 +25880,48 @@
               }
             },
             {
+              "Identification": "M01M0764",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403807"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "REDDITCH "
+                },
+                "PostalAddress": {
+                  "StreetName": "Church Green West",
+                  "TownName": "Redditch",
+                  "Country": "GB",
+                  "PostCode": "B97 4EA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.30761",
+                      "Longitude": "-1.941552"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0220",
               "SupportedLanguages": [
                 "en",
@@ -25826,48 +25958,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.415272",
                       "Longitude": "-1.970576"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M02M0764",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403807"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "REDDITCH "
-                },
-                "PostalAddress": {
-                  "StreetName": "Church Green West",
-                  "TownName": "Redditch",
-                  "Country": "GB",
-                  "PostCode": "B97 4EA",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.30761",
-                      "Longitude": "-1.941552"
                     }
                   }
                 }
@@ -28910,6 +29000,426 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.649776",
                       "Longitude": "-1.122801"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1286",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1287",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1288",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1289",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1290",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M08M1291",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M09M1292",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M10M1293",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M11M1294",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M12M1295",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402806"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEICESTER CLOCK TOWER"
+                },
+                "PostalAddress": {
+                  "StreetName": "2-6 Gallowtree Gate",
+                  "TownName": "Leicester",
+                  "Country": "GB",
+                  "PostCode": "LE1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.635399",
+                      "Longitude": "-1.131698"
                     }
                   }
                 }
@@ -34216,6 +34726,174 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.526325",
                       "Longitude": "-1.555061"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M0265",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTERFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "Market Place",
+                  "TownName": "Chesterfield",
+                  "Country": "GB",
+                  "PostCode": "S40 1TN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.23587",
+                      "Longitude": "-1.428987"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M0266",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTERFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "Market Place",
+                  "TownName": "Chesterfield",
+                  "Country": "GB",
+                  "PostCode": "S40 1TN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.23587",
+                      "Longitude": "-1.428987"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M0267",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTERFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "Market Place",
+                  "TownName": "Chesterfield",
+                  "Country": "GB",
+                  "PostCode": "S40 1TN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.23587",
+                      "Longitude": "-1.428987"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M0268",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CHESTERFIELD"
+                },
+                "PostalAddress": {
+                  "StreetName": "Market Place",
+                  "TownName": "Chesterfield",
+                  "Country": "GB",
+                  "PostCode": "S40 1TN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.23587",
+                      "Longitude": "-1.428987"
                     }
                   }
                 }
@@ -39662,7 +40340,7 @@
               }
             },
             {
-              "Identification": "A24A0674",
+              "Identification": "A24A0675",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -39704,7 +40382,7 @@
               }
             },
             {
-              "Identification": "A24A0675",
+              "Identification": "A25A0674",
               "SupportedLanguages": [
                 "en",
                 "fr",
