@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-05T05:11:12.902Z",
-    "TotalResults": 1178,
+    "LastUpdated": "2024-11-06T05:11:21.185Z",
+    "TotalResults": 1192,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -10531,6 +10531,48 @@
               }
             },
             {
+              "Identification": "M01R1781",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401987"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "RIPLEY"
+                },
+                "PostalAddress": {
+                  "StreetName": "Ripley Town Hall",
+                  "TownName": "Ripley",
+                  "Country": "GB",
+                  "PostCode": "DE5 3BT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.050529",
+                      "Longitude": "-1.407583"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A1719",
               "SupportedLanguages": [
                 "en",
@@ -10574,6 +10616,48 @@
             },
             {
               "Identification": "M01M1720",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403534"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OXFORD CORNMARKET"
+                },
+                "PostalAddress": {
+                  "StreetName": "65 Cornmarket Street",
+                  "TownName": "OXFORD",
+                  "Country": "GB",
+                  "PostCode": "OX1 3HY",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.752098",
+                      "Longitude": "-1.258051"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1721",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -32764,6 +32848,48 @@
               }
             },
             {
+              "Identification": "A24A1528",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401874"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HSBC 8CS RECEPTION "
+                },
+                "PostalAddress": {
+                  "StreetName": "8 Canada Square",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "E14 5HQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.504454",
+                      "Longitude": "-0.017428"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A0608",
               "SupportedLanguages": [
                 "en",
@@ -33052,6 +33178,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.359241",
                       "Longitude": "-0.150118"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1527",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401874"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HSBC 8CS RECEPTION "
+                },
+                "PostalAddress": {
+                  "StreetName": "8 Canada Square",
+                  "TownName": "London",
+                  "Country": "GB",
+                  "PostCode": "E14 5HQ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.504454",
+                      "Longitude": "-0.017428"
                     }
                   }
                 }
@@ -44648,6 +44816,48 @@
               }
             },
             {
+              "Identification": "M02M1760",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402055"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BELFAST ROYAL AVE"
+                },
+                "PostalAddress": {
+                  "StreetName": "25-29 Royal Avenue",
+                  "TownName": "BELFAST",
+                  "Country": "GB",
+                  "PostCode": "BT1 1FB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.599335",
+                      "Longitude": "-5.929947"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1761",
               "SupportedLanguages": [
                 "en",
@@ -45154,6 +45364,49 @@
             },
             {
               "Identification": "M02M1437",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404331"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SWANSEA PORTLAND STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "Portland Street",
+                  "TownName": "SWANSEA",
+                  "Country": "GB",
+                  "PostCode": "SA1 3DF",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.620296",
+                      "Longitude": "-3.944965"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1438",
               "SupportedLanguages": [
                 "en",
                 "fr",
@@ -48474,6 +48727,48 @@
               }
             },
             {
+              "Identification": "M01M1736",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0287",
               "SupportedLanguages": [
                 "en",
@@ -48516,6 +48811,48 @@
               }
             },
             {
+              "Identification": "M02M1737",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1029",
               "SupportedLanguages": [
                 "en",
@@ -48552,6 +48889,258 @@
                     "GeographicCoordinates": {
                       "Latitude": "55.085518",
                       "Longitude": "-1.589563"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1738",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1739",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1740",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1741",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1742",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M08M1743",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403418"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE  CITY "
+                },
+                "PostalAddress": {
+                  "StreetName": "110 Grey Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "NE1 6JG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.973766",
+                      "Longitude": "-1.61262"
                     }
                   }
                 }
