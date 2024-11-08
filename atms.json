@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-06T05:11:21.185Z",
+    "LastUpdated": "2024-11-07T05:11:20.751Z",
     "TotalResults": 1192,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -32882,8 +32882,8 @@
                   "PostCode": "E14 5HQ",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "51.504454",
-                      "Longitude": "-0.017428"
+                      "Latitude": "51.5054315",
+                      "Longitude": "-0.0174404"
                     }
                   }
                 }
@@ -33218,8 +33218,8 @@
                   "PostCode": "E14 5HQ",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "51.504454",
-                      "Longitude": "-0.017428"
+                      "Latitude": "51.5054315",
+                      "Longitude": "-0.0174404"
                     }
                   }
                 }
