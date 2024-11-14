@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-12T05:11:15.320Z",
+    "LastUpdated": "2024-11-13T05:11:16.715Z",
     "TotalResults": 1192,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -26,9 +26,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -68,9 +66,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -236,9 +232,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -404,9 +398,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -572,9 +564,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -698,9 +688,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -866,9 +854,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -908,9 +894,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1077,9 +1061,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1203,9 +1185,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1413,9 +1393,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1875,9 +1853,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1917,9 +1893,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -1959,9 +1933,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -2001,9 +1973,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -2043,9 +2013,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -3639,9 +3607,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -4059,9 +4025,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -4311,9 +4275,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -4437,9 +4399,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -4479,9 +4439,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -5025,9 +4983,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -5151,9 +5107,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -5404,9 +5358,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -5488,9 +5440,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -6034,9 +5984,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -6329,9 +6277,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -6372,9 +6318,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -7089,9 +7033,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -7215,9 +7157,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -7341,9 +7281,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -7383,9 +7321,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -7593,9 +7529,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -8147,9 +8081,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -8273,9 +8205,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -8567,9 +8497,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -9071,9 +8999,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -9113,9 +9039,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -9239,9 +9163,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -10208,9 +10130,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -10460,9 +10380,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -10545,7 +10463,6 @@
                 "PINUnblock",
                 "Balance",
                 "MiniStatement",
-                "ChequeDeposits",
                 "CashDeposits"
               ],
               "SupportedCurrencies": [
@@ -10586,9 +10503,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -10754,9 +10669,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -10880,9 +10793,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -11258,9 +11169,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -11300,9 +11209,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -12140,9 +12047,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -12308,9 +12213,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -12350,9 +12253,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -12560,9 +12461,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -12602,9 +12501,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -13572,9 +13469,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -13615,9 +13510,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -13700,9 +13593,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -13742,9 +13633,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -14288,9 +14177,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -14414,9 +14301,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -15254,9 +15139,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -15338,9 +15221,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -15422,9 +15303,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -15548,9 +15427,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -15633,9 +15510,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -16222,9 +16097,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -16307,9 +16180,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -16349,9 +16220,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -16853,9 +16722,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -16979,9 +16846,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -17273,9 +17138,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -17357,9 +17220,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -17525,9 +17386,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -17987,9 +17846,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -18995,9 +18852,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19121,9 +18976,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19247,9 +19100,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19545,9 +19396,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19587,9 +19436,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19629,9 +19476,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19671,9 +19516,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19713,9 +19556,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -19755,9 +19596,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -21393,9 +21232,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -21519,9 +21356,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -21561,9 +21396,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -21939,9 +21772,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -22107,9 +21938,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -22611,9 +22440,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -22779,9 +22606,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -22863,9 +22688,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -23199,9 +23022,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -23241,9 +23062,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -24207,9 +24026,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -24333,9 +24150,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -24627,9 +24442,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -25047,9 +24860,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -25719,9 +25530,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -25887,9 +25696,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26265,9 +26072,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26391,9 +26196,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26517,9 +26320,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26727,9 +26528,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26854,9 +26653,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26938,9 +26735,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -26980,9 +26775,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -27022,9 +26815,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -27064,9 +26855,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -28534,9 +28323,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -28576,9 +28363,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -28618,9 +28403,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -28828,9 +28611,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -29584,9 +29365,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -29626,9 +29405,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -30382,9 +30159,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -30718,9 +30493,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -31474,9 +31247,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -31769,9 +31540,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32399,9 +32168,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32777,9 +32544,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32819,9 +32584,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32861,9 +32624,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32903,9 +32664,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32945,9 +32704,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -32987,9 +32744,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33029,9 +32784,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33071,9 +32824,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33113,9 +32864,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33155,9 +32904,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33197,9 +32944,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -33239,9 +32984,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -36305,9 +36048,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -36396,7 +36137,6 @@
                 "PINUnblock",
                 "Balance",
                 "MiniStatement",
-                "ChequeDeposits",
                 "CashDeposits"
               ],
               "SupportedCurrencies": [
@@ -36653,9 +36393,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -36865,9 +36603,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -36991,9 +36727,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -37705,9 +37439,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -37873,9 +37605,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -37999,9 +37729,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -38209,9 +37937,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -38629,9 +38355,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -38713,9 +38437,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -38839,9 +38561,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -39133,9 +38853,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -39811,9 +39529,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -39937,9 +39653,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -40318,9 +40032,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -40444,9 +40156,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -40654,9 +40364,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -40781,9 +40489,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -40868,7 +40574,6 @@
                 "PINUnblock",
                 "Balance",
                 "MiniStatement",
-                "ChequeDeposits",
                 "CashDeposits"
               ],
               "SupportedCurrencies": [
@@ -40953,9 +40658,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -41125,9 +40828,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -41252,9 +40953,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -41630,9 +41329,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -41714,9 +41411,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -41840,9 +41535,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -42386,9 +42079,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -42639,9 +42330,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -42767,9 +42456,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -42809,9 +42496,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -43103,9 +42788,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -43608,7 +43291,6 @@
                 "PINUnblock",
                 "Balance",
                 "MiniStatement",
-                "ChequeDeposits",
                 "CashDeposits"
               ],
               "SupportedCurrencies": [
@@ -43691,9 +43373,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -44279,9 +43959,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -44574,9 +44252,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -44745,9 +44421,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -45207,9 +44881,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -45842,9 +45514,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -45884,9 +45554,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -47060,9 +46728,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -47312,9 +46978,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -47690,9 +47354,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -47732,9 +47394,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -47774,9 +47434,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -48446,9 +48104,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -48698,9 +48354,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -49160,9 +48814,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -49202,9 +48854,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
@@ -49244,9 +48894,7 @@
                 "PINActivation",
                 "PINUnblock",
                 "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
+                "MiniStatement"
               ],
               "SupportedCurrencies": [
                 "GBP"
