@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-19T05:11:22.485Z",
-    "TotalResults": 1192,
+    "LastUpdated": "2024-11-20T05:11:23.758Z",
+    "TotalResults": 1196,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -39758,6 +39758,172 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.377518",
                       "Longitude": "1.108599"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1710",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402706"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEAMINGTON SPA "
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 88, 126  The Parade",
+                  "TownName": "LEAMINGTON SPA",
+                  "Country": "GB",
+                  "PostCode": "CV32 4AJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.289326",
+                      "Longitude": "-1.535984"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1711",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402706"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEAMINGTON SPA "
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 88, 126  The Parade",
+                  "TownName": "LEAMINGTON SPA",
+                  "Country": "GB",
+                  "PostCode": "CV32 4AJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.289326",
+                      "Longitude": "-1.535984"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1712",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402706"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEAMINGTON SPA "
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 88, 126  The Parade",
+                  "TownName": "LEAMINGTON SPA",
+                  "Country": "GB",
+                  "PostCode": "CV32 4AJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.289326",
+                      "Longitude": "-1.535984"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1713",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402706"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEAMINGTON SPA "
+                },
+                "PostalAddress": {
+                  "StreetName": "PO Box 88, 126  The Parade",
+                  "TownName": "LEAMINGTON SPA",
+                  "Country": "GB",
+                  "PostCode": "CV32 4AJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.289326",
+                      "Longitude": "-1.535984"
                     }
                   }
                 }
