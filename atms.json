@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-20T05:11:23.758Z",
-    "TotalResults": 1196,
+    "LastUpdated": "2024-11-22T05:11:23.624Z",
+    "TotalResults": 1203,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -30470,6 +30470,300 @@
                   "TownName": "Carlisle",
                   "Country": "GB",
                   "PostCode": "CA3 8JX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1746",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1747",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1748",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1749",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1750",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1751",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1752",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403518"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NOTTINGHAM CLUMBER STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "26 Clumber Street",
+                  "TownName": "NOTTINGHAM",
+                  "Country": "GB",
+                  "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
                       "Latitude": "54.893533",
