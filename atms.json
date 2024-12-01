@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-11-29T05:11:22.644Z",
-    "TotalResults": 1203,
+    "LastUpdated": "2024-11-30T05:11:26.491Z",
+    "TotalResults": 1214,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -18839,6 +18839,307 @@
               }
             },
             {
+              "Identification": "M01M1727",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1728",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1729",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1730",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1731",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1732",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1733",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404731"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "YORK PARLIAMENT STREET"
+                },
+                "PostalAddress": {
+                  "BuildingNumber": " ",
+                  "StreetName": "13 Parliament Street, York, North",
+                  "TownName": "YORK",
+                  "Country": "GB",
+                  "PostCode": "YO1 8RS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.958887",
+                      "Longitude": "-1.081433"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "A25A1149",
               "SupportedLanguages": [
                 "en",
@@ -30564,6 +30865,48 @@
               }
             },
             {
+              "Identification": "M02M1789",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401622"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CARLISLE CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "29 English Street",
+                  "TownName": "Carlisle",
+                  "Country": "GB",
+                  "PostCode": "CA3 8JX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1748",
               "SupportedLanguages": [
                 "en",
@@ -30596,6 +30939,48 @@
                   "TownName": "NOTTINGHAM",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1790",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401622"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CARLISLE CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "29 English Street",
+                  "TownName": "Carlisle",
+                  "Country": "GB",
+                  "PostCode": "CA3 8JX",
                   "GeoLocation": {
                     "GeographicCoordinates": {
                       "Latitude": "54.893533",
@@ -30648,6 +31033,48 @@
               }
             },
             {
+              "Identification": "M04M1791",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401622"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CARLISLE CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "29 English Street",
+                  "TownName": "Carlisle",
+                  "Country": "GB",
+                  "PostCode": "CA3 8JX",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M05M1750",
               "SupportedLanguages": [
                 "en",
@@ -30680,6 +31107,48 @@
                   "TownName": "NOTTINGHAM",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.893533",
+                      "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1792",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401622"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "CARLISLE CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "29 English Street",
+                  "TownName": "Carlisle",
+                  "Country": "GB",
+                  "PostCode": "CA3 8JX",
                   "GeoLocation": {
                     "GeographicCoordinates": {
                       "Latitude": "54.893533",
