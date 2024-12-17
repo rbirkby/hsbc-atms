@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2024-12-11T08:00:40.570Z",
-    "TotalResults": 1224,
+    "LastUpdated": "2024-12-16T15:44:06.220Z",
+    "TotalResults": 1228,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -20105,6 +20105,50 @@
               }
             },
             {
+              "Identification": "M01M1697",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "Access24HoursIndicator": false,
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "0.0",
+              "Branch": {
+                "Identification": "403413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE UNDER LYME"
+                },
+                "PostalAddress": {
+                  "StreetName": "64 High Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "ST5 1QN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.010651",
+                      "Longitude": "-2.227589"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M1702",
               "SupportedLanguages": [
                 "en",
@@ -33141,6 +33185,50 @@
               }
             },
             {
+              "Identification": "M02M1698",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "Access24HoursIndicator": false,
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "0.0",
+              "Branch": {
+                "Identification": "403413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE UNDER LYME"
+                },
+                "PostalAddress": {
+                  "StreetName": "64 High Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "ST5 1QN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.010651",
+                      "Longitude": "-2.227589"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1703",
               "SupportedLanguages": [
                 "en",
@@ -42523,6 +42611,50 @@
               }
             },
             {
+              "Identification": "M03M1699",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "Access24HoursIndicator": false,
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "0.0",
+              "Branch": {
+                "Identification": "403413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE UNDER LYME"
+                },
+                "PostalAddress": {
+                  "StreetName": "64 High Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "ST5 1QN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.010651",
+                      "Longitude": "-2.227589"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1704",
               "SupportedLanguages": [
                 "en",
@@ -48109,6 +48241,50 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.509148",
                       "Longitude": "-0.194634"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M04M1700",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "Access24HoursIndicator": false,
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "MinimumPossibleAmount": "0.0",
+              "Branch": {
+                "Identification": "403413"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NEWCASTLE UNDER LYME"
+                },
+                "PostalAddress": {
+                  "StreetName": "64 High Street",
+                  "TownName": "NEWCASTLE",
+                  "Country": "GB",
+                  "PostCode": "ST5 1QN",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.010651",
+                      "Longitude": "-2.227589"
                     }
                   }
                 }
