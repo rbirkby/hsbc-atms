@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-01-13T15:09:38.405Z",
+    "LastUpdated": "2025-01-15T13:52:15.445Z",
     "TotalResults": 1233,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -28,7 +28,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -71,7 +71,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -113,7 +113,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -155,7 +155,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -198,7 +198,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -240,7 +240,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -282,7 +282,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -324,7 +324,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -366,7 +366,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -408,7 +408,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -450,7 +450,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -492,7 +492,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -534,7 +534,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -576,7 +576,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -618,7 +618,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -660,7 +660,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -702,7 +702,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -744,7 +744,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -786,7 +786,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -828,7 +828,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -870,7 +870,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -912,7 +912,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -955,7 +955,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -997,7 +997,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1039,7 +1039,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1081,7 +1081,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1123,7 +1123,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1165,7 +1165,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1207,7 +1207,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1249,7 +1249,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1291,7 +1291,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1334,7 +1334,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1376,7 +1376,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1418,7 +1418,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1460,7 +1460,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1502,7 +1502,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1544,7 +1544,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1586,7 +1586,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1628,7 +1628,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1670,7 +1670,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1712,7 +1712,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1754,7 +1754,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1796,7 +1796,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1838,7 +1838,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1880,7 +1880,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1922,7 +1922,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -1964,7 +1964,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2006,7 +2006,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2048,7 +2048,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2090,7 +2090,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2132,7 +2132,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2174,7 +2174,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2216,7 +2216,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2258,7 +2258,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2300,7 +2300,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2342,7 +2342,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2384,7 +2384,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2426,7 +2426,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2468,7 +2468,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2510,7 +2510,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2552,7 +2552,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2594,7 +2594,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2636,7 +2636,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2678,7 +2678,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2720,7 +2720,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2762,7 +2762,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2804,7 +2804,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2846,7 +2846,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2888,7 +2888,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2930,7 +2930,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -2972,7 +2972,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3014,7 +3014,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3056,7 +3056,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3098,7 +3098,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3140,7 +3140,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3182,7 +3182,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3224,7 +3224,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3266,7 +3266,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3308,7 +3308,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3350,7 +3350,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3392,7 +3392,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3434,7 +3434,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3476,7 +3476,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3518,7 +3518,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3560,7 +3560,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3602,7 +3602,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3644,7 +3644,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3687,7 +3687,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3729,7 +3729,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3771,7 +3771,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3813,7 +3813,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3855,7 +3855,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3897,7 +3897,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3939,7 +3939,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -3982,7 +3982,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4024,7 +4024,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4066,7 +4066,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4108,7 +4108,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4150,7 +4150,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4192,7 +4192,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4234,7 +4234,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4276,7 +4276,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4318,7 +4318,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4360,7 +4360,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4402,7 +4402,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4444,7 +4444,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4486,7 +4486,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4528,7 +4528,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4570,7 +4570,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4613,7 +4613,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4655,7 +4655,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4697,7 +4697,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4739,7 +4739,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4781,7 +4781,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4823,7 +4823,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4865,7 +4865,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4907,7 +4907,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4949,7 +4949,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -4992,7 +4992,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5034,7 +5034,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5076,7 +5076,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5118,7 +5118,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5160,7 +5160,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5202,7 +5202,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5244,7 +5244,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5286,7 +5286,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5328,7 +5328,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5370,7 +5370,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5412,7 +5412,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5454,7 +5454,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5496,7 +5496,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5538,7 +5538,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5580,7 +5580,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5622,7 +5622,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5665,7 +5665,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5707,7 +5707,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5750,7 +5750,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5792,7 +5792,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5834,7 +5834,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5876,7 +5876,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5918,7 +5918,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -5960,7 +5960,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6002,7 +6002,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6045,7 +6045,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6088,7 +6088,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6130,7 +6130,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6173,7 +6173,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6216,7 +6216,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6258,7 +6258,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6300,7 +6300,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6342,7 +6342,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6384,7 +6384,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6426,7 +6426,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6468,7 +6468,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6510,7 +6510,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6552,7 +6552,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6594,7 +6594,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6636,7 +6636,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6678,7 +6678,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6720,7 +6720,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6762,7 +6762,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6804,7 +6804,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6846,7 +6846,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6888,7 +6888,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6930,7 +6930,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -6972,7 +6972,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7014,7 +7014,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7056,7 +7056,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7098,7 +7098,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7140,7 +7140,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7182,7 +7182,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7224,7 +7224,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7266,7 +7266,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7309,7 +7309,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7352,7 +7352,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7394,7 +7394,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -7436,7 +7436,7 @@
                 "Balance",
                 "MiniStatement"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -8580,7 +8580,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -8668,7 +8668,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -8800,7 +8800,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -8888,7 +8888,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9021,7 +9021,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9065,7 +9065,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9505,7 +9505,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9725,7 +9725,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9857,7 +9857,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9901,7 +9901,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -9945,7 +9945,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10077,7 +10077,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10121,7 +10121,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10209,7 +10209,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10297,7 +10297,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10385,7 +10385,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10561,7 +10561,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10781,7 +10781,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10825,7 +10825,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -10957,7 +10957,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11485,7 +11485,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11529,7 +11529,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11573,7 +11573,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11617,7 +11617,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11793,7 +11793,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -11969,7 +11969,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12057,7 +12057,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12145,7 +12145,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12321,7 +12321,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12365,7 +12365,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12849,7 +12849,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12893,7 +12893,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -12981,7 +12981,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13025,7 +13025,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13069,7 +13069,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13114,7 +13114,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13158,7 +13158,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13202,7 +13202,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13246,7 +13246,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13422,7 +13422,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13642,7 +13642,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13730,7 +13730,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13774,7 +13774,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13907,7 +13907,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -13951,7 +13951,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14083,7 +14083,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14347,7 +14347,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14391,7 +14391,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14524,7 +14524,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14568,7 +14568,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14612,7 +14612,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14656,7 +14656,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14700,7 +14700,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14832,7 +14832,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -14964,7 +14964,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15140,7 +15140,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15272,7 +15272,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15316,7 +15316,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15404,7 +15404,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15626,7 +15626,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15802,7 +15802,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15847,7 +15847,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -15935,7 +15935,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16023,7 +16023,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16111,7 +16111,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16287,7 +16287,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16463,7 +16463,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16551,7 +16551,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16859,7 +16859,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16903,7 +16903,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -16992,7 +16992,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17212,7 +17212,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17301,7 +17301,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17478,7 +17478,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17610,7 +17610,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17698,7 +17698,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17786,7 +17786,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17830,7 +17830,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -17919,7 +17919,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18008,7 +18008,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18052,7 +18052,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18141,7 +18141,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18185,7 +18185,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18229,7 +18229,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18273,7 +18273,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18361,7 +18361,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18625,7 +18625,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18669,7 +18669,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -18933,7 +18933,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19065,7 +19065,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19109,7 +19109,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19197,7 +19197,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19418,7 +19418,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19462,7 +19462,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19594,7 +19594,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19770,7 +19770,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -19902,7 +19902,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20122,7 +20122,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20166,7 +20166,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20210,7 +20210,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20431,7 +20431,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20519,7 +20519,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20607,7 +20607,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20738,7 +20738,7 @@
                 "MiniStatement",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20782,7 +20782,7 @@
                 "MiniStatement",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20825,7 +20825,7 @@
                 "MiniStatement",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -20868,7 +20868,7 @@
                 "MiniStatement",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -21925,7 +21925,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -23597,7 +23597,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -23949,7 +23949,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -24830,7 +24830,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -25138,7 +25138,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -25974,7 +25974,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -26150,7 +26150,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -26591,7 +26591,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -28045,7 +28045,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -28706,7 +28706,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -28794,7 +28794,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -29103,7 +29103,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -29235,7 +29235,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -30115,7 +30115,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -30159,7 +30159,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -30513,7 +30513,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -30689,7 +30689,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -30955,7 +30955,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -31088,7 +31088,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -31265,7 +31265,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -31309,7 +31309,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -31485,7 +31485,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -31705,7 +31705,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32057,7 +32057,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32145,7 +32145,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32277,7 +32277,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32410,7 +32410,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32762,7 +32762,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -32938,7 +32938,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -33246,7 +33246,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -33334,7 +33334,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -33555,7 +33555,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -33643,7 +33643,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -33731,7 +33731,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -35535,7 +35535,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -35711,7 +35711,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -36019,7 +36019,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -36195,7 +36195,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -36680,7 +36680,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -36812,7 +36812,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -37340,7 +37340,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -37870,7 +37870,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -38400,7 +38400,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -38488,7 +38488,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -39413,7 +39413,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -39501,7 +39501,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -40118,7 +40118,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -41088,7 +41088,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -41220,7 +41220,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -41484,7 +41484,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -41924,7 +41924,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -42188,7 +42188,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -42408,7 +42408,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -42936,7 +42936,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -43992,7 +43992,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -44520,7 +44520,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -44697,7 +44697,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -44961,7 +44961,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -45181,7 +45181,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -45225,7 +45225,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -45930,7 +45930,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -46150,7 +46150,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -46194,7 +46194,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -46546,7 +46546,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -46722,7 +46722,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -46766,7 +46766,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -47340,7 +47340,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -47428,7 +47428,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -47648,7 +47648,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -48264,7 +48264,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -48572,7 +48572,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -48880,7 +48880,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -49276,7 +49276,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -49540,7 +49540,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -49892,7 +49892,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -49936,7 +49936,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -50024,7 +50024,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -50244,7 +50244,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -50377,7 +50377,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -50465,7 +50465,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -50862,7 +50862,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -51522,7 +51522,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -51610,7 +51610,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -51742,7 +51742,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -51874,7 +51874,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -51962,7 +51962,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -52270,7 +52270,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -52314,7 +52314,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -52403,7 +52403,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -52447,7 +52447,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -52843,7 +52843,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53063,7 +53063,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53151,7 +53151,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53547,7 +53547,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53591,7 +53591,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53723,7 +53723,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53767,7 +53767,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
@@ -53811,7 +53811,7 @@
                 "ChequeDeposits",
                 "CashDeposits"
               ],
-              "Access24HoursIndicator": false,
+              "Access24HoursIndicator": true,
               "SupportedCurrencies": [
                 "GBP"
               ],
