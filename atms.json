@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-02-07T11:22:33.395Z",
+    "LastUpdated": "2025-02-17T13:30:28.997Z",
     "TotalResults": 1233,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -7111,7 +7111,7 @@
                   "Name": "WESTWOOD CROSS"
                 },
                 "PostalAddress": {
-                  "StreetName": "25 Margate Road, West Wood Cross Shopping Centre",
+                  "StreetName": "26 Westwood Cross Shopping Centre ",
                   "TownName": "Thanet",
                   "Country": "GB",
                   "PostCode": "CT10 2BF",
@@ -20047,7 +20047,7 @@
                   "Name": "WESTWOOD CROSS"
                 },
                 "PostalAddress": {
-                  "StreetName": "25 Margate Road, West Wood Cross Shopping Centre",
+                  "StreetName": "26 Westwood Cross Shopping Centre ",
                   "TownName": "Thanet",
                   "Country": "GB",
                   "PostCode": "CT10 2BF",
@@ -20538,8 +20538,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -33171,7 +33171,7 @@
                   "Name": "WESTWOOD CROSS"
                 },
                 "PostalAddress": {
-                  "StreetName": "25 Margate Road, West Wood Cross Shopping Centre",
+                  "StreetName": "26 Westwood Cross Shopping Centre ",
                   "TownName": "Thanet",
                   "Country": "GB",
                   "PostCode": "CT10 2BF",
@@ -33662,8 +33662,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -42641,7 +42641,7 @@
                   "Name": "WESTWOOD CROSS"
                 },
                 "PostalAddress": {
-                  "StreetName": "25 Margate Road, West Wood Cross Shopping Centre",
+                  "StreetName": "26 Westwood Cross Shopping Centre ",
                   "TownName": "Thanet",
                   "Country": "GB",
                   "PostCode": "CT10 2BF",
@@ -43043,8 +43043,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -48635,8 +48635,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -51585,8 +51585,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -52906,8 +52906,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
@@ -53478,8 +53478,8 @@
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
                     "GeographicCoordinates": {
-                      "Latitude": "52.954102",
-                      "Longitude": "-1.14727"
+                      "Latitude": "52.954328",
+                      "Longitude": "-1.14733"
                     }
                   }
                 }
