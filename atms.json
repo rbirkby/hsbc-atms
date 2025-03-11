@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-02-26T12:00:33.962Z",
-    "TotalResults": 1233,
+    "LastUpdated": "2025-03-10T12:32:09.976Z",
+    "TotalResults": 1236,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -19766,6 +19766,49 @@
               }
             },
             {
+              "Identification": "M01M1793",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403010"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LLANELLI"
+                },
+                "PostalAddress": {
+                  "StreetName": "St. Elli Shopping Centre",
+                  "TownName": "LLANELLI",
+                  "Country": "GB",
+                  "PostCode": "SA15 1SH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.6819103",
+                      "Longitude": "-4.1616263"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01R0687",
               "SupportedLanguages": [
                 "en",
@@ -32336,6 +32379,49 @@
               }
             },
             {
+              "Identification": "M02M1794",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403010"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LLANELLI"
+                },
+                "PostalAddress": {
+                  "StreetName": "St. Elli Shopping Centre",
+                  "TownName": "LLANELLI",
+                  "Country": "GB",
+                  "PostCode": "SA15 1SH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.6819103",
+                      "Longitude": "-4.1616263"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M0004",
               "SupportedLanguages": [
                 "en",
@@ -41285,6 +41371,49 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.893533",
                       "Longitude": "-2.934584"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1795",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403010"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LLANELLI"
+                },
+                "PostalAddress": {
+                  "StreetName": "St. Elli Shopping Centre",
+                  "TownName": "LLANELLI",
+                  "Country": "GB",
+                  "PostCode": "SA15 1SH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.6819103",
+                      "Longitude": "-4.1616263"
                     }
                   }
                 }
