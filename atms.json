@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-03-10T12:32:09.976Z",
-    "TotalResults": 1236,
+    "LastUpdated": "2025-03-12T12:15:59.631Z",
+    "TotalResults": 1237,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -19968,6 +19968,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.050529",
                       "Longitude": "-1.407583"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01R1782",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402091"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "ST AUSTELL"
+                },
+                "PostalAddress": {
+                  "StreetName": "Site 4 White River Place",
+                  "TownName": "ST AUSTELL",
+                  "Country": "GB",
+                  "PostCode": "PL25 5AZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.336803",
+                      "Longitude": "-4.793586"
                     }
                   }
                 }
