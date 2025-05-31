@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-05-09T12:12:12.875Z",
-    "TotalResults": 1237,
+    "LastUpdated": "2025-05-30T13:51:13.883Z",
+    "TotalResults": 1236,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -9372,48 +9372,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.229131",
                       "Longitude": "-0.540624"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M0472",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402219"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "GRANTHAM"
-                },
-                "PostalAddress": {
-                  "StreetName": "88 Westgate",
-                  "TownName": "Grantham",
-                  "Country": "GB",
-                  "PostCode": "NG31 6LF",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.911892",
-                      "Longitude": "-0.64411"
                     }
                   }
                 }
