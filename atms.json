@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-05-30T13:51:13.883Z",
+    "LastUpdated": "2025-06-11T11:30:00.397Z",
     "TotalResults": 1236,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -16147,48 +16147,6 @@
               }
             },
             {
-              "Identification": "M01M1305",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402715"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LEEDS CITY"
-                },
-                "PostalAddress": {
-                  "StreetName": "33 Park Row",
-                  "TownName": "Leeds",
-                  "Country": "GB",
-                  "PostCode": "LS1 1LD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.797781",
-                      "Longitude": "-1.547274"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1314",
               "SupportedLanguages": [
                 "en",
@@ -19967,6 +19925,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.336803",
                       "Longitude": "-4.793586"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01R1797",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401985"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OXTED"
+                },
+                "PostalAddress": {
+                  "StreetName": "Ellice Road Car Park",
+                  "TownName": "OXTED",
+                  "Country": "GB",
+                  "PostCode": "RH8 0PY",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.2580915",
+                      "Longitude": "-0.0012487"
                     }
                   }
                 }
