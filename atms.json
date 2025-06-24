@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-06-16T10:44:54.392Z",
-    "TotalResults": 1237,
+    "LastUpdated": "2025-06-23T12:16:48.022Z",
+    "TotalResults": 1236,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -3171,46 +3171,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.565243",
                       "Longitude": "-1.313574"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A0822",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403915"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "RUSHDEN"
-                },
-                "PostalAddress": {
-                  "StreetName": "High Street",
-                  "TownName": "Rushden",
-                  "Country": "GB",
-                  "PostCode": "NN10 0NP",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.290928",
-                      "Longitude": "-0.598092"
                     }
                   }
                 }
