@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-06-23T12:16:48.022Z",
-    "TotalResults": 1236,
+    "LastUpdated": "2025-06-24T10:55:35.952Z",
+    "TotalResults": 1237,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -16143,6 +16143,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.889755",
                       "Longitude": "-4.416358"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1305",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402715"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEEDS CITY"
+                },
+                "PostalAddress": {
+                  "StreetName": "33 Park Row",
+                  "TownName": "Leeds",
+                  "Country": "GB",
+                  "PostCode": "LS1 1LD",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.797781",
+                      "Longitude": "-1.547274"
                     }
                   }
                 }
