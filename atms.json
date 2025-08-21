@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-08-08T09:49:01.078Z",
+    "LastUpdated": "2025-08-20T08:59:58.334Z",
     "TotalResults": 1232,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -198,7 +198,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -1480,7 +1480,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -1880,7 +1880,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BURTON ON TRENT HIGH ST"
+                  "Name": "BURTON ON TRENT HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "18 High Street",
@@ -2404,7 +2404,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "6 High Street",
-                  "TownName": "Bishop's Castle",
+                  "TownName": "Bishops Castle",
                   "Country": "GB",
                   "PostCode": "SY9 5BQ",
                   "GeoLocation": {
@@ -2604,7 +2604,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "37 Chester Road West",
-                  "TownName": "DEESIDE",
+                  "TownName": "Deeside",
                   "Country": "GB",
                   "PostCode": "CH5 1DE",
                   "GeoLocation": {
@@ -2964,7 +2964,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-2 Market Place",
-                  "TownName": "WOKINGHAM",
+                  "TownName": "Wokingham",
                   "Country": "GB",
                   "PostCode": "RG40 1AL",
                   "GeoLocation": {
@@ -5610,7 +5610,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
+                  "TownName": "Derby",
                   "Country": "GB",
                   "PostCode": "DE1 2AE",
                   "GeoLocation": {
@@ -5650,7 +5650,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -6214,7 +6214,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2 Yorkshire Street",
-                  "TownName": "ROCHDALE",
+                  "TownName": "Rochdale",
                   "Country": "GB",
                   "PostCode": "OL16 1EE",
                   "GeoLocation": {
@@ -6254,7 +6254,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "30 High Street",
-                  "TownName": "WESTON-SUPER-MARE",
+                  "TownName": "Weston Super Mare",
                   "Country": "GB",
                   "PostCode": "BS23 1JE",
                   "GeoLocation": {
@@ -6414,7 +6414,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Cornmarket",
-                  "TownName": "LOUTH",
+                  "TownName": "Louth",
                   "Country": "GB",
                   "PostCode": "LN11 9QB",
                   "GeoLocation": {
@@ -6454,7 +6454,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "46 Fore Street",
-                  "TownName": "TROWBRIDGE",
+                  "TownName": "Trowbridge",
                   "Country": "GB",
                   "PostCode": "BA14 8EL",
                   "GeoLocation": {
@@ -6534,7 +6534,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "39 High Street",
-                  "TownName": "ASHFORD",
+                  "TownName": "Ashford",
                   "Country": "GB",
                   "PostCode": "TN24 8TG",
                   "GeoLocation": {
@@ -6654,7 +6654,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 New Market",
-                  "TownName": "MORPETH",
+                  "TownName": "Morpeth",
                   "Country": "GB",
                   "PostCode": "NE61 1PX",
                   "GeoLocation": {
@@ -6814,7 +6814,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "PO Box 88, 126  The Parade",
-                  "TownName": "LEAMINGTON SPA",
+                  "TownName": "Leamington Spa",
                   "Country": "GB",
                   "PostCode": "CV32 4AJ",
                   "GeoLocation": {
@@ -6894,7 +6894,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "65 Cornmarket Street",
-                  "TownName": "OXFORD",
+                  "TownName": "Oxford",
                   "Country": "GB",
                   "PostCode": "OX1 3HY",
                   "GeoLocation": {
@@ -6935,7 +6935,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "274 High Street",
-                  "TownName": "BANGOR",
+                  "TownName": "Bangor",
                   "Country": "GB",
                   "PostCode": "LL57 1RU",
                   "GeoLocation": {
@@ -6976,7 +6976,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "23 Wellington Road",
-                  "TownName": "RHYL",
+                  "TownName": "Rhyl",
                   "Country": "GB",
                   "PostCode": "LL18 1BB",
                   "GeoLocation": {
@@ -7016,7 +7016,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -7178,11 +7178,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SOUTHEND-ON-SEA"
+                  "Name": "SOUTHEND ON SEA"
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 The Broadway , London Road ",
-                  "TownName": "Southend-on-Sea",
+                  "TownName": "Southend on Sea",
                   "Country": "GB",
                   "PostCode": "SS1 1TJ",
                   "GeoLocation": {
@@ -8442,7 +8442,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "184 High Street",
-                  "TownName": "BROMLEY",
+                  "TownName": "Bromley",
                   "Country": "GB",
                   "PostCode": "BR1 1HE",
                   "GeoLocation": {
@@ -8943,7 +8943,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -9657,7 +9657,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "FOLKESTONE SANDGATE RD"
+                  "Name": "FOLKESTONE SANDGATE ROAD"
                 },
                 "PostalAddress": {
                   "StreetName": "41 Sandgate Road",
@@ -9909,7 +9909,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BURTON ON TRENT HIGH ST"
+                  "Name": "BURTON ON TRENT HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "18 High Street",
@@ -11173,7 +11173,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "37 Chester Road West",
-                  "TownName": "DEESIDE",
+                  "TownName": "Deeside",
                   "Country": "GB",
                   "PostCode": "CH5 1DE",
                   "GeoLocation": {
@@ -11803,7 +11803,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-2 Market Place",
-                  "TownName": "WOKINGHAM",
+                  "TownName": "Wokingham",
                   "Country": "GB",
                   "PostCode": "RG40 1AL",
                   "GeoLocation": {
@@ -13776,7 +13776,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "GLASGOW - BUCHANAN STREET"
+                  "Name": "GLASGOW BUCHANAN STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "2 Buchanan Street",
@@ -15505,7 +15505,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "No 8 Lakeside Shopping Centre",
-                  "TownName": "GRAYS",
+                  "TownName": "Grays",
                   "Country": "GB",
                   "PostCode": "RM20 2ZF",
                   "GeoLocation": {
@@ -15715,7 +15715,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Cattlemarket",
-                  "TownName": "LOUGHBOROUGH",
+                  "TownName": "Loughborough",
                   "Country": "GB",
                   "PostCode": "LE11 3DL",
                   "GeoLocation": {
@@ -16051,7 +16051,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Station Road",
-                  "TownName": "Clacton-on-Sea",
+                  "TownName": "Clacton on Sea",
                   "Country": "GB",
                   "PostCode": "CO15 1RR",
                   "GeoLocation": {
@@ -16516,7 +16516,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -16558,7 +16558,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
+                  "TownName": "Derby",
                   "Country": "GB",
                   "PostCode": "DE1 2AE",
                   "GeoLocation": {
@@ -16642,7 +16642,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -17191,7 +17191,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Portland Street",
-                  "TownName": "SWANSEA",
+                  "TownName": "Swansea",
                   "Country": "GB",
                   "PostCode": "SA1 3DF",
                   "GeoLocation": {
@@ -17653,7 +17653,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "165-167 High Street",
-                  "TownName": "POOLE",
+                  "TownName": "Poole",
                   "Country": "GB",
                   "PostCode": "BH15 1AU",
                   "GeoLocation": {
@@ -17695,7 +17695,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Market Street",
-                  "TownName": "BRADFORD",
+                  "TownName": "Bradford",
                   "Country": "GB",
                   "PostCode": "BD1 1EG",
                   "GeoLocation": {
@@ -17779,7 +17779,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2 Yorkshire Street",
-                  "TownName": "ROCHDALE",
+                  "TownName": "Rochdale",
                   "Country": "GB",
                   "PostCode": "OL16 1EE",
                   "GeoLocation": {
@@ -17821,7 +17821,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "63 George Street",
-                  "TownName": "LUTON",
+                  "TownName": "Luton",
                   "Country": "GB",
                   "PostCode": "LU1 2AR",
                   "GeoLocation": {
@@ -17863,7 +17863,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "3 Leigh Road",
-                  "TownName": "EASTLEIGH",
+                  "TownName": "Eastleigh",
                   "Country": "GB",
                   "PostCode": "SO50 9YW",
                   "GeoLocation": {
@@ -17905,7 +17905,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 High Street",
-                  "TownName": "NORTHWICH",
+                  "TownName": "Northwich",
                   "Country": "GB",
                   "PostCode": "CW9 5BZ",
                   "GeoLocation": {
@@ -17947,7 +17947,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 Minster Street",
-                  "TownName": "SALISBURY",
+                  "TownName": "Salisbury",
                   "Country": "GB",
                   "PostCode": "SP1 1TE",
                   "GeoLocation": {
@@ -17989,7 +17989,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "30 High Street",
-                  "TownName": "WESTON-SUPER-MARE",
+                  "TownName": "Weston Super Mare",
                   "Country": "GB",
                   "PostCode": "BS23 1JE",
                   "GeoLocation": {
@@ -18031,7 +18031,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -18073,7 +18073,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "8 Market Place",
-                  "TownName": "SPALDING",
+                  "TownName": "Spalding",
                   "Country": "GB",
                   "PostCode": "PE11 1SN",
                   "GeoLocation": {
@@ -18115,7 +18115,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "33 High Street",
-                  "TownName": "SHREWSBURY",
+                  "TownName": "Shrewsbury",
                   "Country": "GB",
                   "PostCode": "SY1 1SL",
                   "GeoLocation": {
@@ -18195,11 +18195,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "EDINBURGH HANOVER ST"
+                  "Name": "EDINBURGH HANOVER STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "76 Hanover Street",
-                  "TownName": "EDINBURGH",
+                  "TownName": "Edinburgh",
                   "Country": "GB",
                   "PostCode": "EH2 1EL",
                   "GeoLocation": {
@@ -18242,7 +18242,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "23 Wellington Road",
-                  "TownName": "RHYL",
+                  "TownName": "Rhyl",
                   "Country": "GB",
                   "PostCode": "LL18 1BB",
                   "GeoLocation": {
@@ -18284,7 +18284,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "331 Lord Street",
-                  "TownName": "SOUTHPORT",
+                  "TownName": "Southport",
                   "Country": "GB",
                   "PostCode": "PR8 1NJ",
                   "GeoLocation": {
@@ -18368,7 +18368,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "231 Chatham High Street",
-                  "TownName": "CHATHAM",
+                  "TownName": "Chatham",
                   "Country": "GB",
                   "PostCode": "ME4 4BQ",
                   "GeoLocation": {
@@ -18452,7 +18452,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 The Boulevard",
-                  "TownName": "CRAWLEY",
+                  "TownName": "Crawley",
                   "Country": "GB",
                   "PostCode": "RH10 1UT",
                   "GeoLocation": {
@@ -18494,7 +18494,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Cornmarket",
-                  "TownName": "LOUTH",
+                  "TownName": "Louth",
                   "Country": "GB",
                   "PostCode": "LN11 9QB",
                   "GeoLocation": {
@@ -18536,7 +18536,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "46 Fore Street",
-                  "TownName": "TROWBRIDGE",
+                  "TownName": "Trowbridge",
                   "Country": "GB",
                   "PostCode": "BA14 8EL",
                   "GeoLocation": {
@@ -18578,7 +18578,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -18662,7 +18662,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "39 High Street",
-                  "TownName": "ASHFORD",
+                  "TownName": "Ashford",
                   "Country": "GB",
                   "PostCode": "TN24 8TG",
                   "GeoLocation": {
@@ -18746,7 +18746,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Grange Road, The Pyramids",
-                  "TownName": "BIRKENHEAD",
+                  "TownName": "Birkenhead",
                   "Country": "GB",
                   "PostCode": "CH41 2ZL",
                   "GeoLocation": {
@@ -18872,7 +18872,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "55 Victoria Street",
-                  "TownName": "GRIMSBY",
+                  "TownName": "Grimbsy",
                   "Country": "GB",
                   "PostCode": "DN31 1UX",
                   "GeoLocation": {
@@ -18914,7 +18914,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 New Market",
-                  "TownName": "MORPETH",
+                  "TownName": "Morpeth",
                   "Country": "GB",
                   "PostCode": "NE61 1PX",
                   "GeoLocation": {
@@ -19124,7 +19124,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "64 High Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "ST5 1QN",
                   "GeoLocation": {
@@ -19208,7 +19208,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "PO Box 88, 126  The Parade",
-                  "TownName": "LEAMINGTON SPA",
+                  "TownName": "Leamington Spa",
                   "Country": "GB",
                   "PostCode": "CV32 4AJ",
                   "GeoLocation": {
@@ -19292,7 +19292,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "65 Cornmarket Street",
-                  "TownName": "OXFORD",
+                  "TownName": "Oxford",
                   "Country": "GB",
                   "PostCode": "OX1 3HY",
                   "GeoLocation": {
@@ -19335,7 +19335,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "274 High Street",
-                  "TownName": "BANGOR",
+                  "TownName": "Bangor",
                   "Country": "GB",
                   "PostCode": "LL57 1RU",
                   "GeoLocation": {
@@ -19377,7 +19377,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -19419,7 +19419,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -19461,7 +19461,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -19503,7 +19503,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -19545,7 +19545,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -19629,7 +19629,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "12 Allhallows",
-                  "TownName": "BEDFORD",
+                  "TownName": "Bedford",
                   "Country": "GB",
                   "PostCode": "MK40 1LJ",
                   "GeoLocation": {
@@ -19672,7 +19672,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "St. Elli Shopping Centre",
-                  "TownName": "LLANELLI",
+                  "TownName": "Llanelli",
                   "Country": "GB",
                   "PostCode": "SA15 1SH",
                   "GeoLocation": {
@@ -19920,7 +19920,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Site 4 White River Place",
-                  "TownName": "ST AUSTELL",
+                  "TownName": "St Austell",
                   "Country": "GB",
                   "PostCode": "PL25 5AZ",
                   "GeoLocation": {
@@ -19961,7 +19961,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Ellice Road Car Park",
-                  "TownName": "OXTED",
+                  "TownName": "Oxted",
                   "Country": "GB",
                   "PostCode": "RH8 0PY",
                   "GeoLocation": {
@@ -21264,7 +21264,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "184 High Street",
-                  "TownName": "BROMLEY",
+                  "TownName": "Bromley",
                   "Country": "GB",
                   "PostCode": "BR1 1HE",
                   "GeoLocation": {
@@ -21890,7 +21890,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -21978,7 +21978,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "6 High Street",
-                  "TownName": "Bishop's Castle",
+                  "TownName": "Bishops Castle",
                   "Country": "GB",
                   "PostCode": "SY9 5BQ",
                   "GeoLocation": {
@@ -22730,7 +22730,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "FOLKESTONE SANDGATE RD"
+                  "Name": "FOLKESTONE SANDGATE ROAD"
                 },
                 "PostalAddress": {
                   "StreetName": "41 Sandgate Road",
@@ -22898,11 +22898,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SOUTHEND-ON-SEA"
+                  "Name": "SOUTHEND ON SEA"
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 The Broadway , London Road ",
-                  "TownName": "Southend-on-Sea",
+                  "TownName": "Southend on Sea",
                   "Country": "GB",
                   "PostCode": "SS1 1TJ",
                   "GeoLocation": {
@@ -23066,7 +23066,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BURTON ON TRENT HIGH ST"
+                  "Name": "BURTON ON TRENT HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "18 High Street",
@@ -24583,7 +24583,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-2 Market Place",
-                  "TownName": "WOKINGHAM",
+                  "TownName": "Wokingham",
                   "Country": "GB",
                   "PostCode": "RG40 1AL",
                   "GeoLocation": {
@@ -26556,7 +26556,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "GLASGOW - BUCHANAN STREET"
+                  "Name": "GLASGOW BUCHANAN STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "2 Buchanan Street",
@@ -28200,7 +28200,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "No 8 Lakeside Shopping Centre",
-                  "TownName": "GRAYS",
+                  "TownName": "Grays",
                   "Country": "GB",
                   "PostCode": "RM20 2ZF",
                   "GeoLocation": {
@@ -28368,7 +28368,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Cattlemarket",
-                  "TownName": "LOUGHBOROUGH",
+                  "TownName": "Loughborough",
                   "Country": "GB",
                   "PostCode": "LE11 3DL",
                   "GeoLocation": {
@@ -28746,7 +28746,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Station Road",
-                  "TownName": "Clacton-on-Sea",
+                  "TownName": "Clacton on Sea",
                   "Country": "GB",
                   "PostCode": "CO15 1RR",
                   "GeoLocation": {
@@ -29042,7 +29042,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -29084,7 +29084,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
+                  "TownName": "Derby",
                   "Country": "GB",
                   "PostCode": "DE1 2AE",
                   "GeoLocation": {
@@ -29168,7 +29168,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -29633,7 +29633,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Portland Street",
-                  "TownName": "SWANSEA",
+                  "TownName": "Swansea",
                   "Country": "GB",
                   "PostCode": "SA1 3DF",
                   "GeoLocation": {
@@ -30264,7 +30264,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "165-167 High Street",
-                  "TownName": "POOLE",
+                  "TownName": "Poole",
                   "Country": "GB",
                   "PostCode": "BH15 1AU",
                   "GeoLocation": {
@@ -30306,7 +30306,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Market Street",
-                  "TownName": "BRADFORD",
+                  "TownName": "Bradford",
                   "Country": "GB",
                   "PostCode": "BD1 1EG",
                   "GeoLocation": {
@@ -30432,7 +30432,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2 Yorkshire Street",
-                  "TownName": "ROCHDALE",
+                  "TownName": "Rochdale",
                   "Country": "GB",
                   "PostCode": "OL16 1EE",
                   "GeoLocation": {
@@ -30474,7 +30474,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "63 George Street",
-                  "TownName": "LUTON",
+                  "TownName": "Luton",
                   "Country": "GB",
                   "PostCode": "LU1 2AR",
                   "GeoLocation": {
@@ -30516,7 +30516,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "3 Leigh Road",
-                  "TownName": "EASTLEIGH",
+                  "TownName": "Eastleigh",
                   "Country": "GB",
                   "PostCode": "SO50 9YW",
                   "GeoLocation": {
@@ -30558,7 +30558,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 High Street",
-                  "TownName": "NORTHWICH",
+                  "TownName": "Northwich",
                   "Country": "GB",
                   "PostCode": "CW9 5BZ",
                   "GeoLocation": {
@@ -30600,7 +30600,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 Minster Street",
-                  "TownName": "SALISBURY",
+                  "TownName": "Salisbury",
                   "Country": "GB",
                   "PostCode": "SP1 1TE",
                   "GeoLocation": {
@@ -30642,7 +30642,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "30 High Street",
-                  "TownName": "WESTON-SUPER-MARE",
+                  "TownName": "Weston Super Mare",
                   "Country": "GB",
                   "PostCode": "BS23 1JE",
                   "GeoLocation": {
@@ -30684,7 +30684,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -30726,7 +30726,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "8 Market Place",
-                  "TownName": "SPALDING",
+                  "TownName": "Spalding",
                   "Country": "GB",
                   "PostCode": "PE11 1SN",
                   "GeoLocation": {
@@ -30768,7 +30768,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "33 High Street",
-                  "TownName": "SHREWSBURY",
+                  "TownName": "Shrewsbury",
                   "Country": "GB",
                   "PostCode": "SY1 1SL",
                   "GeoLocation": {
@@ -30848,11 +30848,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "EDINBURGH HANOVER ST"
+                  "Name": "EDINBURGH HANOVER STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "76 Hanover Street",
-                  "TownName": "EDINBURGH",
+                  "TownName": "Edinburgh",
                   "Country": "GB",
                   "PostCode": "EH2 1EL",
                   "GeoLocation": {
@@ -30895,7 +30895,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "23 Wellington Road",
-                  "TownName": "RHYL",
+                  "TownName": "Rhyl",
                   "Country": "GB",
                   "PostCode": "LL18 1BB",
                   "GeoLocation": {
@@ -31021,7 +31021,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "331 Lord Street",
-                  "TownName": "SOUTHPORT",
+                  "TownName": "Southport",
                   "Country": "GB",
                   "PostCode": "PR8 1NJ",
                   "GeoLocation": {
@@ -31105,7 +31105,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "231 Chatham High Street",
-                  "TownName": "CHATHAM",
+                  "TownName": "Chatham",
                   "Country": "GB",
                   "PostCode": "ME4 4BQ",
                   "GeoLocation": {
@@ -31189,7 +31189,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 The Boulevard",
-                  "TownName": "CRAWLEY",
+                  "TownName": "Crawley",
                   "Country": "GB",
                   "PostCode": "RH10 1UT",
                   "GeoLocation": {
@@ -31231,7 +31231,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Cornmarket",
-                  "TownName": "LOUTH",
+                  "TownName": "Louth",
                   "Country": "GB",
                   "PostCode": "LN11 9QB",
                   "GeoLocation": {
@@ -31273,7 +31273,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -31357,7 +31357,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "39 High Street",
-                  "TownName": "ASHFORD",
+                  "TownName": "Ashford",
                   "Country": "GB",
                   "PostCode": "TN24 8TG",
                   "GeoLocation": {
@@ -31441,7 +31441,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Grange Road, The Pyramids",
-                  "TownName": "BIRKENHEAD",
+                  "TownName": "Birkenhead",
                   "Country": "GB",
                   "PostCode": "CH41 2ZL",
                   "GeoLocation": {
@@ -31567,7 +31567,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "55 Victoria Street",
-                  "TownName": "GRIMSBY",
+                  "TownName": "Grimbsy",
                   "Country": "GB",
                   "PostCode": "DN31 1UX",
                   "GeoLocation": {
@@ -31777,7 +31777,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "64 High Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "ST5 1QN",
                   "GeoLocation": {
@@ -31861,7 +31861,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "PO Box 88, 126  The Parade",
-                  "TownName": "LEAMINGTON SPA",
+                  "TownName": "Leamington Spa",
                   "Country": "GB",
                   "PostCode": "CV32 4AJ",
                   "GeoLocation": {
@@ -31945,7 +31945,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "65 Cornmarket Street",
-                  "TownName": "OXFORD",
+                  "TownName": "Oxford",
                   "Country": "GB",
                   "PostCode": "OX1 3HY",
                   "GeoLocation": {
@@ -31988,7 +31988,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "274 High Street",
-                  "TownName": "BANGOR",
+                  "TownName": "Bangor",
                   "Country": "GB",
                   "PostCode": "LL57 1RU",
                   "GeoLocation": {
@@ -32030,7 +32030,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -32072,7 +32072,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -32114,7 +32114,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -32156,7 +32156,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -32198,7 +32198,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -32282,7 +32282,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "12 Allhallows",
-                  "TownName": "BEDFORD",
+                  "TownName": "Bedford",
                   "Country": "GB",
                   "PostCode": "MK40 1LJ",
                   "GeoLocation": {
@@ -32367,7 +32367,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "St. Elli Shopping Centre",
-                  "TownName": "LLANELLI",
+                  "TownName": "Llanelli",
                   "Country": "GB",
                   "PostCode": "SA15 1SH",
                   "GeoLocation": {
@@ -33081,7 +33081,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "184 High Street",
-                  "TownName": "BROMLEY",
+                  "TownName": "Bromley",
                   "Country": "GB",
                   "PostCode": "BR1 1HE",
                   "GeoLocation": {
@@ -33623,7 +33623,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -34127,7 +34127,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "FOLKESTONE SANDGATE RD"
+                  "Name": "FOLKESTONE SANDGATE ROAD"
                 },
                 "PostalAddress": {
                   "StreetName": "41 Sandgate Road",
@@ -34211,11 +34211,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SOUTHEND-ON-SEA"
+                  "Name": "SOUTHEND ON SEA"
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 The Broadway , London Road ",
-                  "TownName": "Southend-on-Sea",
+                  "TownName": "Southend on Sea",
                   "Country": "GB",
                   "PostCode": "SS1 1TJ",
                   "GeoLocation": {
@@ -34379,7 +34379,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BURTON ON TRENT HIGH ST"
+                  "Name": "BURTON ON TRENT HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "18 High Street",
@@ -36904,7 +36904,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "GLASGOW - BUCHANAN STREET"
+                  "Name": "GLASGOW BUCHANAN STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "2 Buchanan Street",
@@ -38170,7 +38170,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "No 8 Lakeside Shopping Centre",
-                  "TownName": "GRAYS",
+                  "TownName": "Grays",
                   "Country": "GB",
                   "PostCode": "RM20 2ZF",
                   "GeoLocation": {
@@ -38296,7 +38296,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Cattlemarket",
-                  "TownName": "LOUGHBOROUGH",
+                  "TownName": "Loughborough",
                   "Country": "GB",
                   "PostCode": "LE11 3DL",
                   "GeoLocation": {
@@ -38675,7 +38675,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -38717,7 +38717,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1 St Peter's Street",
-                  "TownName": "DERBY",
+                  "TownName": "Derby",
                   "Country": "GB",
                   "PostCode": "DE1 2AE",
                   "GeoLocation": {
@@ -38801,7 +38801,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -39180,7 +39180,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Portland Street",
-                  "TownName": "SWANSEA",
+                  "TownName": "Swansea",
                   "Country": "GB",
                   "PostCode": "SA1 3DF",
                   "GeoLocation": {
@@ -39684,7 +39684,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "165-167 High Street",
-                  "TownName": "POOLE",
+                  "TownName": "Poole",
                   "Country": "GB",
                   "PostCode": "BH15 1AU",
                   "GeoLocation": {
@@ -39726,7 +39726,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Market Street",
-                  "TownName": "BRADFORD",
+                  "TownName": "Bradford",
                   "Country": "GB",
                   "PostCode": "BD1 1EG",
                   "GeoLocation": {
@@ -39852,7 +39852,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2 Yorkshire Street",
-                  "TownName": "ROCHDALE",
+                  "TownName": "Rochdale",
                   "Country": "GB",
                   "PostCode": "OL16 1EE",
                   "GeoLocation": {
@@ -39894,7 +39894,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "63 George Street",
-                  "TownName": "LUTON",
+                  "TownName": "Luton",
                   "Country": "GB",
                   "PostCode": "LU1 2AR",
                   "GeoLocation": {
@@ -39936,7 +39936,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 Minster Street",
-                  "TownName": "SALISBURY",
+                  "TownName": "Salisbury",
                   "Country": "GB",
                   "PostCode": "SP1 1TE",
                   "GeoLocation": {
@@ -39978,7 +39978,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "30 High Street",
-                  "TownName": "WESTON-SUPER-MARE",
+                  "TownName": "Weston Super Mare",
                   "Country": "GB",
                   "PostCode": "BS23 1JE",
                   "GeoLocation": {
@@ -40020,7 +40020,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -40062,7 +40062,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "8 Market Place",
-                  "TownName": "SPALDING",
+                  "TownName": "Spalding",
                   "Country": "GB",
                   "PostCode": "PE11 1SN",
                   "GeoLocation": {
@@ -40104,7 +40104,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "33 High Street",
-                  "TownName": "SHREWSBURY",
+                  "TownName": "Shrewsbury",
                   "Country": "GB",
                   "PostCode": "SY1 1SL",
                   "GeoLocation": {
@@ -40184,11 +40184,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "EDINBURGH HANOVER ST"
+                  "Name": "EDINBURGH HANOVER STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "76 Hanover Street",
-                  "TownName": "EDINBURGH",
+                  "TownName": "Edinburgh",
                   "Country": "GB",
                   "PostCode": "EH2 1EL",
                   "GeoLocation": {
@@ -40272,7 +40272,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "231 Chatham High Street",
-                  "TownName": "CHATHAM",
+                  "TownName": "Chatham",
                   "Country": "GB",
                   "PostCode": "ME4 4BQ",
                   "GeoLocation": {
@@ -40356,7 +40356,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 The Boulevard",
-                  "TownName": "CRAWLEY",
+                  "TownName": "Crawley",
                   "Country": "GB",
                   "PostCode": "RH10 1UT",
                   "GeoLocation": {
@@ -40398,7 +40398,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -40440,7 +40440,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "39 High Street",
-                  "TownName": "ASHFORD",
+                  "TownName": "Ashford",
                   "Country": "GB",
                   "PostCode": "TN24 8TG",
                   "GeoLocation": {
@@ -40524,7 +40524,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Grange Road, The Pyramids",
-                  "TownName": "BIRKENHEAD",
+                  "TownName": "Birkenhead",
                   "Country": "GB",
                   "PostCode": "CH41 2ZL",
                   "GeoLocation": {
@@ -40608,7 +40608,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "55 Victoria Street",
-                  "TownName": "GRIMSBY",
+                  "TownName": "Grimbsy",
                   "Country": "GB",
                   "PostCode": "DN31 1UX",
                   "GeoLocation": {
@@ -40818,7 +40818,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "64 High Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "ST5 1QN",
                   "GeoLocation": {
@@ -40902,7 +40902,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "PO Box 88, 126  The Parade",
-                  "TownName": "LEAMINGTON SPA",
+                  "TownName": "Leamington Spa",
                   "Country": "GB",
                   "PostCode": "CV32 4AJ",
                   "GeoLocation": {
@@ -40944,7 +40944,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "65 Cornmarket Street",
-                  "TownName": "OXFORD",
+                  "TownName": "Oxford",
                   "Country": "GB",
                   "PostCode": "OX1 3HY",
                   "GeoLocation": {
@@ -40986,7 +40986,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -41028,7 +41028,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -41070,7 +41070,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -41112,7 +41112,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -41154,7 +41154,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -41238,7 +41238,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "12 Allhallows",
-                  "TownName": "BEDFORD",
+                  "TownName": "Bedford",
                   "Country": "GB",
                   "PostCode": "MK40 1LJ",
                   "GeoLocation": {
@@ -41323,7 +41323,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "St. Elli Shopping Centre",
-                  "TownName": "LLANELLI",
+                  "TownName": "Llanelli",
                   "Country": "GB",
                   "PostCode": "SA15 1SH",
                   "GeoLocation": {
@@ -41701,7 +41701,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "184 High Street",
-                  "TownName": "BROMLEY",
+                  "TownName": "Bromley",
                   "Country": "GB",
                   "PostCode": "BR1 1HE",
                   "GeoLocation": {
@@ -42075,7 +42075,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -42453,11 +42453,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SOUTHEND-ON-SEA"
+                  "Name": "SOUTHEND ON SEA"
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 The Broadway , London Road ",
-                  "TownName": "Southend-on-Sea",
+                  "TownName": "Southend on Sea",
                   "Country": "GB",
                   "PostCode": "SS1 1TJ",
                   "GeoLocation": {
@@ -43883,7 +43883,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "GLASGOW - BUCHANAN STREET"
+                  "Name": "GLASGOW BUCHANAN STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "2 Buchanan Street",
@@ -44601,7 +44601,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Cattlemarket",
-                  "TownName": "LOUGHBOROUGH",
+                  "TownName": "Loughborough",
                   "Country": "GB",
                   "PostCode": "LE11 3DL",
                   "GeoLocation": {
@@ -44854,7 +44854,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -44938,7 +44938,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -45233,7 +45233,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Portland Street",
-                  "TownName": "SWANSEA",
+                  "TownName": "Swansea",
                   "Country": "GB",
                   "PostCode": "SA1 3DF",
                   "GeoLocation": {
@@ -45653,7 +45653,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "165-167 High Street",
-                  "TownName": "POOLE",
+                  "TownName": "Poole",
                   "Country": "GB",
                   "PostCode": "BH15 1AU",
                   "GeoLocation": {
@@ -45695,7 +45695,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Market Street",
-                  "TownName": "BRADFORD",
+                  "TownName": "Bradford",
                   "Country": "GB",
                   "PostCode": "BD1 1EG",
                   "GeoLocation": {
@@ -45737,7 +45737,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "63 George Street",
-                  "TownName": "LUTON",
+                  "TownName": "Luton",
                   "Country": "GB",
                   "PostCode": "LU1 2AR",
                   "GeoLocation": {
@@ -45779,7 +45779,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 Minster Street",
-                  "TownName": "SALISBURY",
+                  "TownName": "Salisbury",
                   "Country": "GB",
                   "PostCode": "SP1 1TE",
                   "GeoLocation": {
@@ -45821,7 +45821,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -45863,7 +45863,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "33 High Street",
-                  "TownName": "SHREWSBURY",
+                  "TownName": "Shrewsbury",
                   "Country": "GB",
                   "PostCode": "SY1 1SL",
                   "GeoLocation": {
@@ -45943,11 +45943,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "EDINBURGH HANOVER ST"
+                  "Name": "EDINBURGH HANOVER STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "76 Hanover Street",
-                  "TownName": "EDINBURGH",
+                  "TownName": "Edinburgh",
                   "Country": "GB",
                   "PostCode": "EH2 1EL",
                   "GeoLocation": {
@@ -46031,7 +46031,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -46115,7 +46115,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Grange Road, The Pyramids",
-                  "TownName": "BIRKENHEAD",
+                  "TownName": "Birkenhead",
                   "Country": "GB",
                   "PostCode": "CH41 2ZL",
                   "GeoLocation": {
@@ -46241,7 +46241,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "64 High Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "ST5 1QN",
                   "GeoLocation": {
@@ -46325,7 +46325,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -46367,7 +46367,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -46409,7 +46409,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -46451,7 +46451,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -46493,7 +46493,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -46535,7 +46535,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "12 Allhallows",
-                  "TownName": "BEDFORD",
+                  "TownName": "Bedford",
                   "Country": "GB",
                   "PostCode": "MK40 1LJ",
                   "GeoLocation": {
@@ -46741,7 +46741,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -47921,7 +47921,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Cattlemarket",
-                  "TownName": "LOUGHBOROUGH",
+                  "TownName": "Loughborough",
                   "Country": "GB",
                   "PostCode": "LE11 3DL",
                   "GeoLocation": {
@@ -48090,7 +48090,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -48132,7 +48132,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "9 Rose Lane",
-                  "TownName": "CANTERBURY",
+                  "TownName": "Canterbury",
                   "Country": "GB",
                   "PostCode": "CT1 2JP",
                   "GeoLocation": {
@@ -48301,7 +48301,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Portland Street",
-                  "TownName": "SWANSEA",
+                  "TownName": "Swansea",
                   "Country": "GB",
                   "PostCode": "SA1 3DF",
                   "GeoLocation": {
@@ -48553,7 +48553,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "47 Market Street",
-                  "TownName": "BRADFORD",
+                  "TownName": "Bradford",
                   "Country": "GB",
                   "PostCode": "BD1 1EG",
                   "GeoLocation": {
@@ -48595,7 +48595,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "165-167 High Street",
-                  "TownName": "POOLE",
+                  "TownName": "Poole",
                   "Country": "GB",
                   "PostCode": "BH15 1AU",
                   "GeoLocation": {
@@ -48679,7 +48679,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "63 George Street",
-                  "TownName": "LUTON",
+                  "TownName": "Luton",
                   "Country": "GB",
                   "PostCode": "LU1 2AR",
                   "GeoLocation": {
@@ -48721,7 +48721,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "19 Minster Street",
-                  "TownName": "SALISBURY",
+                  "TownName": "Salisbury",
                   "Country": "GB",
                   "PostCode": "SP1 1TE",
                   "GeoLocation": {
@@ -48763,7 +48763,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -48805,7 +48805,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "33 High Street",
-                  "TownName": "SHREWSBURY",
+                  "TownName": "Shrewsbury",
                   "Country": "GB",
                   "PostCode": "SY1 1SL",
                   "GeoLocation": {
@@ -48931,7 +48931,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -49015,7 +49015,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Grange Road, The Pyramids",
-                  "TownName": "BIRKENHEAD",
+                  "TownName": "Birkenhead",
                   "Country": "GB",
                   "PostCode": "CH41 2ZL",
                   "GeoLocation": {
@@ -49099,7 +49099,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -49141,7 +49141,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -49183,7 +49183,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -49225,7 +49225,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
-                  "TownName": "BELFAST",
+                  "TownName": "Belfast",
                   "Country": "GB",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
@@ -49309,7 +49309,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -49351,7 +49351,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "12 Allhallows",
-                  "TownName": "BEDFORD",
+                  "TownName": "Bedford",
                   "Country": "GB",
                   "PostCode": "MK40 1LJ",
                   "GeoLocation": {
@@ -49515,7 +49515,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -49982,7 +49982,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "17-19 Regent Street",
-                  "TownName": "WREXHAM",
+                  "TownName": "Wrexham",
                   "Country": "GB",
                   "PostCode": "LL11 1RN",
                   "GeoLocation": {
@@ -50234,7 +50234,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -50276,7 +50276,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "18 London Street",
-                  "TownName": "NORWICH",
+                  "TownName": "Norwich",
                   "Country": "GB",
                   "PostCode": "NR2 1LG",
                   "GeoLocation": {
@@ -50360,7 +50360,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -50402,7 +50402,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -50444,7 +50444,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -50528,7 +50528,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Victoria Square",
-                  "TownName": "BOLTON",
+                  "TownName": "Bolton",
                   "Country": "GB",
                   "PostCode": "BL1 1RJ",
                   "GeoLocation": {
@@ -50566,7 +50566,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -50822,7 +50822,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "2-4 St Anne's Square",
-                  "TownName": "MANCHESTER",
+                  "TownName": "Manchester",
                   "Country": "GB",
                   "PostCode": "M2 7HD",
                   "GeoLocation": {
@@ -50906,7 +50906,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "13 Parliament Street",
-                  "TownName": "YORK",
+                  "TownName": "York",
                   "Country": "GB",
                   "PostCode": "YO1 8RS",
                   "GeoLocation": {
@@ -50948,7 +50948,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -50990,7 +50990,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "26 Clumber Street",
-                  "TownName": "NOTTINGHAM",
+                  "TownName": "Nottingham",
                   "Country": "GB",
                   "PostCode": "NG1 3GA",
                   "GeoLocation": {
@@ -51070,7 +51070,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -51200,7 +51200,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "110 Grey Street",
-                  "TownName": "NEWCASTLE",
+                  "TownName": "Newcastle",
                   "Country": "GB",
                   "PostCode": "NE1 6JG",
                   "GeoLocation": {
@@ -51238,7 +51238,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
@@ -51322,7 +51322,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "LIVERPOOL LORD ST"
+                  "Name": "LIVERPOOL LORD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "99 - 101 Lord Street",
