@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-08-20T08:59:58.334Z",
+    "LastUpdated": "2025-08-28T09:37:48.435Z",
     "TotalResults": 1232,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -358,7 +358,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -2240,7 +2240,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -2400,11 +2400,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BISHOPS CASTLE"
+                  "Name": "BISHOP'S CASTLE"
                 },
                 "PostalAddress": {
                   "StreetName": "6 High Street",
-                  "TownName": "Bishops Castle",
+                  "TownName": "Bishop's Castle",
                   "Country": "GB",
                   "PostCode": "SY9 5BQ",
                   "GeoLocation": {
@@ -2582,7 +2582,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -4322,7 +4323,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -6174,7 +6175,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "71 West Street",
-                  "TownName": "FAREHAM",
+                  "TownName": "Fareham",
                   "Country": "GB",
                   "PostCode": "PO16 0AN",
                   "GeoLocation": {
@@ -6334,7 +6335,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "94 Terminus Road",
-                  "TownName": "EASTBOURNE",
+                  "TownName": "Eastbourne",
                   "Country": "GB",
                   "PostCode": "BN21 3ND",
                   "GeoLocation": {
@@ -7012,12 +7013,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -7116,7 +7117,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -7410,7 +7412,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -8965,7 +8968,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -8985,7 +8989,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "RUTHIN "
+                  "Name": "RUTHIN"
                 },
                 "PostalAddress": {
                   "StreetName": "St Peter's Square",
@@ -9469,7 +9473,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -10539,7 +10544,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -10729,7 +10734,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -10855,7 +10861,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -11149,7 +11156,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -11443,7 +11451,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -13860,7 +13869,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -13966,7 +13975,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -14070,7 +14080,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SLOUGH HIGH ST"
+                  "Name": "SLOUGH HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "128 High Street",
@@ -16238,7 +16248,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -17527,7 +17538,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "31 Church Street",
-                  "TownName": "KIDDERMINSTER",
+                  "TownName": "Kidderminster",
                   "Country": "GB",
                   "PostCode": "DY10 2AY",
                   "GeoLocation": {
@@ -17569,7 +17580,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Warwick Street",
-                  "TownName": "WORTHING",
+                  "TownName": "Worthing",
                   "Country": "GB",
                   "PostCode": "BN11 3DE",
                   "GeoLocation": {
@@ -18409,8 +18420,8 @@
                   "Name": "WALTHAMSTOW"
                 },
                 "PostalAddress": {
-                  "StreetName": "192 Hoe Street, Walthamstow",
-                  "TownName": "LONDON",
+                  "StreetName": "192 Hoe Street",
+                  "TownName": "Walthamstow",
                   "Country": "GB",
                   "PostCode": "E17 4QN",
                   "GeoLocation": {
@@ -19499,12 +19510,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -20231,7 +20242,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -21534,7 +21546,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -21912,7 +21925,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -21974,11 +21988,11 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BISHOPS CASTLE"
+                  "Name": "BISHOP'S CASTLE"
                 },
                 "PostalAddress": {
                   "StreetName": "6 High Street",
-                  "TownName": "Bishops Castle",
+                  "TownName": "Bishop's Castle",
                   "Country": "GB",
                   "PostCode": "SY9 5BQ",
                   "GeoLocation": {
@@ -22248,7 +22262,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -22500,7 +22515,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -23655,7 +23671,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -23719,7 +23735,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -23761,7 +23778,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -24265,7 +24283,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -26598,7 +26617,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -26704,7 +26723,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -26808,7 +26828,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SLOUGH HIGH ST"
+                  "Name": "SLOUGH HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "128 High Street",
@@ -29675,7 +29695,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Unit 49-51, The Bridges Shopping Centre",
-                  "TownName": "SUNDERLAND",
+                  "TownName": "Sunderland",
                   "Country": "GB",
                   "PostCode": "SR1 3LE",
                   "GeoLocation": {
@@ -29928,7 +29948,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street",
-                  "TownName": "BRISTOL",
+                  "TownName": "Bristol",
                   "Country": "GB",
                   "PostCode": "BS1 3BA",
                   "GeoLocation": {
@@ -30180,7 +30200,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Warwick Street",
-                  "TownName": "WORTHING",
+                  "TownName": "Worthing",
                   "Country": "GB",
                   "PostCode": "BN11 3DE",
                   "GeoLocation": {
@@ -31146,8 +31166,8 @@
                   "Name": "WALTHAMSTOW"
                 },
                 "PostalAddress": {
-                  "StreetName": "192 Hoe Street, Walthamstow",
-                  "TownName": "LONDON",
+                  "StreetName": "192 Hoe Street",
+                  "TownName": "Walthamstow",
                   "Country": "GB",
                   "PostCode": "E17 4QN",
                   "GeoLocation": {
@@ -32152,12 +32172,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -33897,7 +33917,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -34884,7 +34905,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -34990,7 +35011,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -35410,7 +35432,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -36988,7 +37011,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -37156,7 +37179,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SLOUGH HIGH ST"
+                  "Name": "SLOUGH HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "128 High Street",
@@ -39222,7 +39245,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Unit 49-51, The Bridges Shopping Centre",
-                  "TownName": "SUNDERLAND",
+                  "TownName": "Sunderland",
                   "Country": "GB",
                   "PostCode": "SR1 3LE",
                   "GeoLocation": {
@@ -39432,7 +39455,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street",
-                  "TownName": "BRISTOL",
+                  "TownName": "Bristol",
                   "Country": "GB",
                   "PostCode": "BS1 3BA",
                   "GeoLocation": {
@@ -39600,7 +39623,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "1-3 Warwick Street",
-                  "TownName": "WORTHING",
+                  "TownName": "Worthing",
                   "Country": "GB",
                   "PostCode": "BN11 3DE",
                   "GeoLocation": {
@@ -40313,8 +40336,8 @@
                   "Name": "WALTHAMSTOW"
                 },
                 "PostalAddress": {
-                  "StreetName": "192 Hoe Street, Walthamstow",
-                  "TownName": "LONDON",
+                  "StreetName": "192 Hoe Street",
+                  "TownName": "Walthamstow",
                   "Country": "GB",
                   "PostCode": "E17 4QN",
                   "GeoLocation": {
@@ -41108,12 +41131,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -42223,7 +42246,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -42832,7 +42856,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -42854,7 +42878,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -43925,7 +43950,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -44051,7 +44076,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SLOUGH HIGH ST"
+                  "Name": "SLOUGH HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "128 High Street",
@@ -45275,7 +45300,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Unit 49-51, The Bridges Shopping Centre",
-                  "TownName": "SUNDERLAND",
+                  "TownName": "Sunderland",
                   "Country": "GB",
                   "PostCode": "SR1 3LE",
                   "GeoLocation": {
@@ -45485,7 +45510,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street",
-                  "TownName": "BRISTOL",
+                  "TownName": "Bristol",
                   "Country": "GB",
                   "PostCode": "BS1 3BA",
                   "GeoLocation": {
@@ -45988,8 +46013,8 @@
                   "Name": "WALTHAMSTOW"
                 },
                 "PostalAddress": {
-                  "StreetName": "192 Hoe Street, Walthamstow",
-                  "TownName": "LONDON",
+                  "StreetName": "192 Hoe Street",
+                  "TownName": "Walthamstow",
                   "Country": "GB",
                   "PostCode": "E17 4QN",
                   "GeoLocation": {
@@ -46447,12 +46472,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -46847,7 +46872,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -47203,7 +47229,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -47539,7 +47565,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "WOLVERHAMPTON QUEEN SQ"
+                  "Name": "WOLVERHAMPTON QUEEN SQUARE"
                 },
                 "PostalAddress": {
                   "StreetName": "9 Queens Square",
@@ -47581,7 +47607,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "SLOUGH HIGH ST"
+                  "Name": "SLOUGH HIGH STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "128 High Street",
@@ -48343,7 +48369,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Unit 49-51, The Bridges Shopping Centre",
-                  "TownName": "SUNDERLAND",
+                  "TownName": "Sunderland",
                   "Country": "GB",
                   "PostCode": "SR1 3LE",
                   "GeoLocation": {
@@ -48511,7 +48537,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street",
-                  "TownName": "BRISTOL",
+                  "TownName": "Bristol",
                   "Country": "GB",
                   "PostCode": "BS1 3BA",
                   "GeoLocation": {
@@ -48888,8 +48914,8 @@
                   "Name": "WALTHAMSTOW"
                 },
                 "PostalAddress": {
-                  "StreetName": "192 Hoe Street, Walthamstow",
-                  "TownName": "LONDON",
+                  "StreetName": "192 Hoe Street",
+                  "TownName": "Walthamstow",
                   "Country": "GB",
                   "PostCode": "E17 4QN",
                   "GeoLocation": {
@@ -49221,12 +49247,12 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "BELFAST ROYAL AVE"
+                  "Name": "BELFAST ROYAL AVENUE"
                 },
                 "PostalAddress": {
                   "StreetName": "25-29 Royal Avenue",
                   "TownName": "Belfast",
-                  "Country": "GB",
+                  "Country": "UK",
                   "PostCode": "BT1 1FB",
                   "GeoLocation": {
                     "GeographicCoordinates": {
@@ -49579,7 +49605,8 @@
                 "en",
                 "fr",
                 "es",
-                "de"
+                "de",
+                "cy"
               ],
               "ATMServices": [
                 "CashWithdrawal",
@@ -49725,7 +49752,7 @@
               },
               "Location": {
                 "Site": {
-                  "Name": "READING BROAD ST"
+                  "Name": "READING BROAD STREET"
                 },
                 "PostalAddress": {
                   "StreetName": "26 Broad Street",
@@ -50108,7 +50135,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "Unit 49-51, The Bridges Shopping Centre",
-                  "TownName": "SUNDERLAND",
+                  "TownName": "Sunderland",
                   "Country": "GB",
                   "PostCode": "SR1 3LE",
                   "GeoLocation": {
@@ -50192,7 +50219,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 George White Street",
-                  "TownName": "BRISTOL",
+                  "TownName": "Bristol",
                   "Country": "GB",
                   "PostCode": "BS1 3BA",
                   "GeoLocation": {
