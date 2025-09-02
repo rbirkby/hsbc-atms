@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-08-28T09:37:48.435Z",
+    "LastUpdated": "2025-09-01T09:38:23.799Z",
     "TotalResults": 1232,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -4368,7 +4368,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "The Cross 1 Broad Street",
-                  "TownName": "Newton",
+                  "TownName": "Newtown",
                   "Country": "GB",
                   "PostCode": "SY16 2LX",
                   "GeoLocation": {
@@ -14000,7 +14000,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "The Cross 1 Broad Street",
-                  "TownName": "Newton",
+                  "TownName": "Newtown",
                   "Country": "GB",
                   "PostCode": "SY16 2LX",
                   "GeoLocation": {
@@ -16442,7 +16442,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 High Street",
-                  "TownName": "Portmadog",
+                  "TownName": "Porthmadog",
                   "Country": "GB",
                   "PostCode": "LL49 9LN",
                   "GeoLocation": {
@@ -26748,7 +26748,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "The Cross 1 Broad Street",
-                  "TownName": "Newton",
+                  "TownName": "Newtown",
                   "Country": "GB",
                   "PostCode": "SY16 2LX",
                   "GeoLocation": {
@@ -28977,7 +28977,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "62 High Street",
-                  "TownName": "Portmadog",
+                  "TownName": "Porthmadog",
                   "Country": "GB",
                   "PostCode": "LL49 9LN",
                   "GeoLocation": {
