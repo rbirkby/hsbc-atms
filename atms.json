@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-09-02T09:29:55.467Z",
-    "TotalResults": 1232,
+    "LastUpdated": "2025-09-05T09:21:05.412Z",
+    "TotalResults": 1231,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -3132,46 +3132,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.565243",
                       "Longitude": "-1.313574"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A0822",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403915"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "RUSHDEN"
-                },
-                "PostalAddress": {
-                  "StreetName": "High Street",
-                  "TownName": "Rushden",
-                  "Country": "GB",
-                  "PostCode": "NN10 0NP",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.290928",
-                      "Longitude": "-0.598092"
                     }
                   }
                 }
@@ -16947,7 +16907,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "126 High Road",
-                  "TownName": "ILFORD",
+                  "TownName": "Ilford",
                   "Country": "GB",
                   "PostCode": "IG1 1DA",
                   "GeoLocation": {
@@ -29398,7 +29358,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "126 High Road",
-                  "TownName": "ILFORD",
+                  "TownName": "Ilford",
                   "Country": "GB",
                   "PostCode": "IG1 1DA",
                   "GeoLocation": {
@@ -39034,7 +38994,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "126 High Road",
-                  "TownName": "ILFORD",
+                  "TownName": "Ilford",
                   "Country": "GB",
                   "PostCode": "IG1 1DA",
                   "GeoLocation": {
@@ -45131,7 +45091,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "126 High Road",
-                  "TownName": "ILFORD",
+                  "TownName": "Ilford",
                   "Country": "GB",
                   "PostCode": "IG1 1DA",
                   "GeoLocation": {
@@ -48284,7 +48244,7 @@
                 },
                 "PostalAddress": {
                   "StreetName": "126 High Road",
-                  "TownName": "ILFORD",
+                  "TownName": "Ilford",
                   "Country": "GB",
                   "PostCode": "IG1 1DA",
                   "GeoLocation": {
