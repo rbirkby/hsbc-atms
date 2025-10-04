@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-09-30T10:59:20.151Z",
-    "TotalResults": 1231,
+    "LastUpdated": "2025-10-03T13:59:03.473Z",
+    "TotalResults": 1226,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -5861,6 +5861,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.113026",
                       "Longitude": "-4.078337"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1464",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401919"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "DOLGELLAU"
+                },
+                "PostalAddress": {
+                  "StreetName": "Eldon Square",
+                  "TownName": "Dolgellau",
+                  "Country": "GB",
+                  "PostCode": "LL40 1PS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.742542",
+                      "Longitude": "-3.8853"
                     }
                   }
                 }
@@ -19486,48 +19527,6 @@
               }
             },
             {
-              "Identification": "M01M1768",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1775",
               "SupportedLanguages": [
                 "en",
@@ -32148,48 +32147,6 @@
               }
             },
             {
-              "Identification": "M02M1769",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1776",
               "SupportedLanguages": [
                 "en",
@@ -41107,48 +41064,6 @@
               }
             },
             {
-              "Identification": "M03M1770",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1777",
               "SupportedLanguages": [
                 "en",
@@ -46448,48 +46363,6 @@
               }
             },
             {
-              "Identification": "M04M1771",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M1786",
               "SupportedLanguages": [
                 "en",
@@ -49265,48 +49138,6 @@
               }
             },
             {
-              "Identification": "M05M1772",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M05M1787",
               "SupportedLanguages": [
                 "en",
@@ -50479,48 +50310,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.509148",
                       "Longitude": "-0.194634"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M06M1773",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401225"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BOLTON VICTORIA SQUARE"
-                },
-                "PostalAddress": {
-                  "StreetName": "1-3 Victoria Square",
-                  "TownName": "Bolton",
-                  "Country": "GB",
-                  "PostCode": "BL1 1RJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.57872",
-                      "Longitude": "-2.429434"
                     }
                   }
                 }
