@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-10-03T13:59:03.473Z",
-    "TotalResults": 1226,
+    "LastUpdated": "2025-10-06T15:18:34.748Z",
+    "TotalResults": 1220,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -3172,6 +3172,46 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.565243",
                       "Longitude": "-1.313574"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A0822",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403915"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "RUSHDEN"
+                },
+                "PostalAddress": {
+                  "StreetName": "High Street",
+                  "TownName": "Rushden",
+                  "Country": "GB",
+                  "PostCode": "NN10 0NP",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.290928",
+                      "Longitude": "-0.598092"
                     }
                   }
                 }
@@ -11909,6 +11949,48 @@
               }
             },
             {
+              "Identification": "M01M0824",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403915"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "RUSHDEN"
+                },
+                "PostalAddress": {
+                  "StreetName": "High Street",
+                  "TownName": "Rushden",
+                  "Country": "GB",
+                  "PostCode": "NN10 0NP",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.290928",
+                      "Longitude": "-0.598092"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0826",
               "SupportedLanguages": [
                 "en",
@@ -16870,48 +16952,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.801476",
                       "Longitude": "-0.20794"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M1396",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
                     }
                   }
                 }
@@ -29285,48 +29325,6 @@
               }
             },
             {
-              "Identification": "M02M1397",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1408",
               "SupportedLanguages": [
                 "en",
@@ -38879,48 +38877,6 @@
               }
             },
             {
-              "Identification": "M03M1398",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1409",
               "SupportedLanguages": [
                 "en",
@@ -44934,48 +44890,6 @@
               }
             },
             {
-              "Identification": "M04M1399",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M1410",
               "SupportedLanguages": [
                 "en",
@@ -48045,48 +47959,6 @@
               }
             },
             {
-              "Identification": "M05M1400",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M05M1411",
               "SupportedLanguages": [
                 "en",
@@ -49854,48 +49726,6 @@
               }
             },
             {
-              "Identification": "M06M1401",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M06M1452",
               "SupportedLanguages": [
                 "en",
@@ -50526,48 +50356,6 @@
               }
             },
             {
-              "Identification": "M07M1402",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M07M1571",
               "SupportedLanguages": [
                 "en",
@@ -50898,48 +50686,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.635399",
                       "Longitude": "-1.131698"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M08M1403",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401118"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BIRMINGHAM NEW STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "130 New Street",
-                  "TownName": "Birmingham",
-                  "Country": "GB",
-                  "PostCode": "B2 4JU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.478929",
-                      "Longitude": "-1.897804"
                     }
                   }
                 }
