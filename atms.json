@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-10-16T11:39:35.726Z",
-    "TotalResults": 1216,
+    "LastUpdated": "2025-10-17T11:23:00.357Z",
+    "TotalResults": 1200,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -13084,48 +13084,6 @@
               }
             },
             {
-              "Identification": "M01M0939",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403333"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
-                },
-                "PostalAddress": {
-                  "StreetName": "19 Midsummer Place",
-                  "TownName": "Milton Keynes",
-                  "Country": "GB",
-                  "PostCode": "MK9 3GB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.040989",
-                      "Longitude": "-0.75721"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M0945",
               "SupportedLanguages": [
                 "en",
@@ -16241,48 +16199,6 @@
               }
             },
             {
-              "Identification": "M01M1324",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403725"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PRESTON FISHERGATE"
-                },
-                "PostalAddress": {
-                  "StreetName": "49A Fishergate",
-                  "TownName": "Preston",
-                  "Country": "GB",
-                  "PostCode": "PR1 8BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.757292",
-                      "Longitude": "-2.70454"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1330",
               "SupportedLanguages": [
                 "en",
@@ -18552,48 +18468,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.320892",
                       "Longitude": "-2.207336"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M1637",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
@@ -25706,48 +25580,6 @@
               }
             },
             {
-              "Identification": "M02M0940",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403333"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
-                },
-                "PostalAddress": {
-                  "StreetName": "19 Midsummer Place",
-                  "TownName": "Milton Keynes",
-                  "Country": "GB",
-                  "PostCode": "MK9 3GB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.040989",
-                      "Longitude": "-0.75721"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M0946",
               "SupportedLanguages": [
                 "en",
@@ -28777,48 +28609,6 @@
               }
             },
             {
-              "Identification": "M02M1325",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403725"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PRESTON FISHERGATE"
-                },
-                "PostalAddress": {
-                  "StreetName": "49A Fishergate",
-                  "TownName": "Preston",
-                  "Country": "GB",
-                  "PostCode": "PR1 8BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.757292",
-                      "Longitude": "-2.70454"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1335",
               "SupportedLanguages": [
                 "en",
@@ -31130,48 +30920,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.366257",
                       "Longitude": "-0.006083"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M02M1636",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
@@ -36100,48 +35848,6 @@
               }
             },
             {
-              "Identification": "M03M0941",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403333"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
-                },
-                "PostalAddress": {
-                  "StreetName": "19 Midsummer Place",
-                  "TownName": "Milton Keynes",
-                  "Country": "GB",
-                  "PostCode": "MK9 3GB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.040989",
-                      "Longitude": "-0.75721"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M0947",
               "SupportedLanguages": [
                 "en",
@@ -38456,48 +38162,6 @@
               }
             },
             {
-              "Identification": "M03M1326",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403725"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PRESTON FISHERGATE"
-                },
-                "PostalAddress": {
-                  "StreetName": "49A Fishergate",
-                  "TownName": "Preston",
-                  "Country": "GB",
-                  "PostCode": "PR1 8BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.757292",
-                      "Longitude": "-2.70454"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1352",
               "SupportedLanguages": [
                 "en",
@@ -40132,48 +39796,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.11692",
                       "Longitude": "-0.18756"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M03M1635",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
@@ -43292,48 +42914,6 @@
               }
             },
             {
-              "Identification": "M04M0942",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403333"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
-                },
-                "PostalAddress": {
-                  "StreetName": "19 Midsummer Place",
-                  "TownName": "Milton Keynes",
-                  "Country": "GB",
-                  "PostCode": "MK9 3GB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.040989",
-                      "Longitude": "-0.75721"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M0948",
               "SupportedLanguages": [
                 "en",
@@ -44463,48 +44043,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.797781",
                       "Longitude": "-1.547274"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M04M1327",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403725"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PRESTON FISHERGATE"
-                },
-                "PostalAddress": {
-                  "StreetName": "49A Fishergate",
-                  "TownName": "Preston",
-                  "Country": "GB",
-                  "PostCode": "PR1 8BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.757292",
-                      "Longitude": "-2.70454"
                     }
                   }
                 }
@@ -45641,48 +45179,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.585716",
                       "Longitude": "-0.020025"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M04M1634",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
@@ -46992,48 +46488,6 @@
               }
             },
             {
-              "Identification": "M05M0943",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403333"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
-                },
-                "PostalAddress": {
-                  "StreetName": "19 Midsummer Place",
-                  "TownName": "Milton Keynes",
-                  "Country": "GB",
-                  "PostCode": "MK9 3GB",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.040989",
-                      "Longitude": "-0.75721"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M05M0949",
               "SupportedLanguages": [
                 "en",
@@ -47616,48 +47070,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.797781",
                       "Longitude": "-1.547274"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M05M1328",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403725"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "PRESTON FISHERGATE"
-                },
-                "PostalAddress": {
-                  "StreetName": "49A Fishergate",
-                  "TownName": "Preston",
-                  "Country": "GB",
-                  "PostCode": "PR1 8BH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.757292",
-                      "Longitude": "-2.70454"
                     }
                   }
                 }
@@ -48458,48 +47870,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.585716",
                       "Longitude": "-0.020025"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M05M1633",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
@@ -49720,48 +49090,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.482587",
                       "Longitude": "-2.24576"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M06M1638",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403509"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "NORWICH LONDON STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "18 London Street",
-                  "TownName": "Norwich",
-                  "Country": "GB",
-                  "PostCode": "NR2 1LG",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.628899",
-                      "Longitude": "1.294226"
                     }
                   }
                 }
