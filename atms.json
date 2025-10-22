@@ -1,6 +1,6 @@
 {
   "meta": {
-    "LastUpdated": "2025-10-17T11:23:00.357Z",
+    "LastUpdated": "2025-10-21T10:20:17.454Z",
     "TotalResults": 1200,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
@@ -2163,7 +2163,7 @@
                   "Name": "FULHAM BROADWAY "
                 },
                 "PostalAddress": {
-                  "StreetName": "593-599 Fulham Road",
+                  "StreetName": "593 - 599 Fulham Road",
                   "TownName": "Fulham",
                   "Country": "GB",
                   "PostCode": "SW6 5UA",
@@ -10419,7 +10419,7 @@
                   "Name": "FULHAM BROADWAY "
                 },
                 "PostalAddress": {
-                  "StreetName": "593-599 Fulham Road",
+                  "StreetName": "593 - 599 Fulham Road",
                   "TownName": "Fulham",
                   "Country": "GB",
                   "PostCode": "SW6 5UA",
@@ -23378,7 +23378,7 @@
                   "Name": "FULHAM BROADWAY "
                 },
                 "PostalAddress": {
-                  "StreetName": "593-599 Fulham Road",
+                  "StreetName": "593 - 599 Fulham Road",
                   "TownName": "Fulham",
                   "Country": "GB",
                   "PostCode": "SW6 5UA",
