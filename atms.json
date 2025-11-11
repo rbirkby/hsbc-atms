@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-11-03T12:15:27.090Z",
-    "TotalResults": 1197,
+    "LastUpdated": "2025-11-10T12:52:55.711Z",
+    "TotalResults": 1200,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -21666,6 +21666,48 @@
               }
             },
             {
+              "Identification": "M02M0395",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402307"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HANLEY "
+                },
+                "PostalAddress": {
+                  "StreetName": "Crown Bank",
+                  "TownName": "Stoke on Trent",
+                  "Country": "GB",
+                  "PostCode": "ST1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.02565",
+                      "Longitude": "-2.175873"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0405",
               "SupportedLanguages": [
                 "en",
@@ -41315,6 +41357,48 @@
               }
             },
             {
+              "Identification": "M04M0403",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402307"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HANLEY "
+                },
+                "PostalAddress": {
+                  "StreetName": "Crown Bank",
+                  "TownName": "Stoke on Trent",
+                  "Country": "GB",
+                  "PostCode": "ST1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.02565",
+                      "Longitude": "-2.175873"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M0407",
               "SupportedLanguages": [
                 "en",
@@ -45683,6 +45767,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.37658",
                       "Longitude": "-1.47324"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M0394",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402307"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "HANLEY "
+                },
+                "PostalAddress": {
+                  "StreetName": "Crown Bank",
+                  "TownName": "Stoke on Trent",
+                  "Country": "GB",
+                  "PostCode": "ST1 1DA",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.02565",
+                      "Longitude": "-2.175873"
                     }
                   }
                 }
