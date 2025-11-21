@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-11-10T12:52:55.519Z",
-    "TotalResults": 1200,
+    "LastUpdated": "2025-11-20T12:25:38.980Z",
+    "TotalResults": 1204,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -6822,46 +6822,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.517609",
                       "Longitude": "-0.109519"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A1710",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402706"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LEAMINGTON SPA "
-                },
-                "PostalAddress": {
-                  "StreetName": "126 The Parade",
-                  "TownName": "Leamington Spa",
-                  "Country": "GB",
-                  "PostCode": "CV32 4AJ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.289326",
-                      "Longitude": "-1.535984"
                     }
                   }
                 }
@@ -17123,6 +17083,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.620296",
                       "Longitude": "-3.944965"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1442",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "Exeter",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.725397",
+                      "Longitude": "-3.527859"
                     }
                   }
                 }
@@ -29370,6 +29372,48 @@
               }
             },
             {
+              "Identification": "M02M1443",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "Exeter",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.725397",
+                      "Longitude": "-3.527859"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1448",
               "SupportedLanguages": [
                 "en",
@@ -38668,6 +38712,48 @@
               }
             },
             {
+              "Identification": "M03M1444",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "Exeter",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.725397",
+                      "Longitude": "-3.527859"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1449",
               "SupportedLanguages": [
                 "en",
@@ -44429,6 +44515,48 @@
               }
             },
             {
+              "Identification": "M04M1445",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "Exeter",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.725397",
+                      "Longitude": "-3.527859"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M1450",
               "SupportedLanguages": [
                 "en",
@@ -47282,6 +47410,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.620296",
                       "Longitude": "-3.944965"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1446",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402030"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "EXETER HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "250-251 High Street",
+                  "TownName": "Exeter",
+                  "Country": "GB",
+                  "PostCode": "EX4 3PZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.725397",
+                      "Longitude": "-3.527859"
                     }
                   }
                 }
