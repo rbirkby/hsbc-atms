@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-11-20T12:25:38.980Z",
-    "TotalResults": 1204,
+    "LastUpdated": "2025-11-25T13:12:22.387Z",
+    "TotalResults": 1205,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -6822,6 +6822,46 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.517609",
                       "Longitude": "-0.109519"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1710",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402706"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "LEAMINGTON SPA "
+                },
+                "PostalAddress": {
+                  "StreetName": "126 The Parade",
+                  "TownName": "Leamington Spa",
+                  "Country": "GB",
+                  "PostCode": "CV32 4AJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.289326",
+                      "Longitude": "-1.535984"
                     }
                   }
                 }
