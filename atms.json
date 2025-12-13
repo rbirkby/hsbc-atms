@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-12-08T14:13:05.013Z",
-    "TotalResults": 1207,
+    "LastUpdated": "2025-12-12T14:11:46.724Z",
+    "TotalResults": 1209,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -13794,6 +13794,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.609921",
                       "Longitude": "-2.453831"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1038",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
                     }
                   }
                 }
@@ -38955,6 +38996,47 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.507038",
                       "Longitude": "-0.419121"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1468",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404218"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "SOUTHAMPTON ABOVE BAR STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "55 Above Bar Street",
+                  "TownName": "Southampton",
+                  "Country": "GB",
+                  "PostCode": "SO14 7DZ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "50.904683",
+                      "Longitude": "-1.404102"
                     }
                   }
                 }
