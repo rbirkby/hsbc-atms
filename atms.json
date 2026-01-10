@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2025-12-12T14:11:46.527Z",
-    "TotalResults": 1209,
+    "LastUpdated": "2025-12-12T14:11:46.724Z",
+    "TotalResults": 1208,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -46982,48 +46982,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.508926",
                       "Longitude": "-0.593676"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M05M1088",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404317"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "STOURBRIDGE"
-                },
-                "PostalAddress": {
-                  "StreetName": "114 High Street",
-                  "TownName": "Stourbridge",
-                  "Country": "GB",
-                  "PostCode": "DY8 1DZ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.455829",
-                      "Longitude": "-2.144999"
                     }
                   }
                 }
