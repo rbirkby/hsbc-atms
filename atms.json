@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-01-09T11:46:56.335Z",
-    "TotalResults": 1207,
+    "LastUpdated": "2026-01-20T11:56:22.634Z",
+    "TotalResults": 1208,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -19644,6 +19644,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.432396",
                       "Longitude": "-2.759376"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01R0974",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de",
+                "cy"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401886"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "COWBRIDGE"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Willow Walk",
+                  "TownName": "Cowbridge",
+                  "Country": "GB",
+                  "PostCode": "CF71 7EE",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.4619716",
+                      "Longitude": "-3.4463208"
                     }
                   }
                 }
