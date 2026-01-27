@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-01-20T11:56:22.221Z",
-    "TotalResults": 1208,
+    "LastUpdated": "2026-01-26T12:52:57.999Z",
+    "TotalResults": 1211,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -4615,46 +4615,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.859062",
                       "Longitude": "-3.055763"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A1115",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400914"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BARROW IN FURNESS"
-                },
-                "PostalAddress": {
-                  "StreetName": "104 Duke Street",
-                  "TownName": "Barrow-In-Furness",
-                  "Country": "GB",
-                  "PostCode": "LA14 1LR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "54.113541",
-                      "Longitude": "-3.230338"
                     }
                   }
                 }
@@ -14472,48 +14432,6 @@
               }
             },
             {
-              "Identification": "M01M1113",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400914"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BARROW IN FURNESS"
-                },
-                "PostalAddress": {
-                  "StreetName": "104 Duke Street",
-                  "TownName": "Barrow-In-Furness",
-                  "Country": "GB",
-                  "PostCode": "LA14 1LR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "54.113541",
-                      "Longitude": "-3.230338"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1117",
               "SupportedLanguages": [
                 "en",
@@ -19476,6 +19394,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.599335",
                       "Longitude": "-5.929947"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1768",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
                     }
                   }
                 }
@@ -27052,48 +27012,6 @@
               }
             },
             {
-              "Identification": "M02M1114",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400914"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "BARROW IN FURNESS"
-                },
-                "PostalAddress": {
-                  "StreetName": "104 Duke Street",
-                  "TownName": "Barrow-In-Furness",
-                  "Country": "GB",
-                  "PostCode": "LA14 1LR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "54.113541",
-                      "Longitude": "-3.230338"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1119",
               "SupportedLanguages": [
                 "en",
@@ -31969,6 +31887,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.599335",
                       "Longitude": "-5.929947"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1769",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
                     }
                   }
                 }
@@ -40765,6 +40725,48 @@
               }
             },
             {
+              "Identification": "M03M1770",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1777",
               "SupportedLanguages": [
                 "en",
@@ -45937,6 +45939,48 @@
               }
             },
             {
+              "Identification": "M04M1771",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M1786",
               "SupportedLanguages": [
                 "en",
@@ -48544,6 +48588,48 @@
               }
             },
             {
+              "Identification": "M05M1772",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M05M1787",
               "SupportedLanguages": [
                 "en",
@@ -49632,6 +49718,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.509148",
                       "Longitude": "-0.194634"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1773",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "401225"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BOLTON VICTORIA SQUARE"
+                },
+                "PostalAddress": {
+                  "StreetName": "1-3 Victoria Square",
+                  "TownName": "Bolton",
+                  "Country": "GB",
+                  "PostCode": "BL1 1RJ",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.57872",
+                      "Longitude": "-2.429434"
                     }
                   }
                 }
