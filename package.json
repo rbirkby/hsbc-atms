@@ -1,0 +1,25 @@
+{
+  "name": "hsbc-atms",
+  "version": "1.0.0",
+  "description": "Simple GH Action that uses the public [HSBC APIs](https://develop.hsbc.com/ob-api-overview/api-overview-8) to retrieve the latest ATM information. If this data has changed, then it is committed to GitHub.",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbirkby/hsbc-atms.git"
+  },
+  "keywords": [],
+  "author": "Richard Birkby",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rbirkby/hsbc-atms/issues"
+  },
+  "homepage": "https://github.com/rbirkby/hsbc-atms#readme",
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.19",
+    "tsx": "^4.21.0"
+  }
+}
