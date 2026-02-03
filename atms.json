@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-01-26T12:52:59.022Z",
-    "TotalResults": 1211,
+    "LastUpdated": "2026-02-02T11:59:48.236Z",
+    "TotalResults": 1216,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -13044,6 +13044,48 @@
               }
             },
             {
+              "Identification": "M01M0939",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403333"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Midsummer Place",
+                  "TownName": "Milton Keynes",
+                  "Country": "GB",
+                  "PostCode": "MK9 3GB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.040989",
+                      "Longitude": "-0.75721"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M0945",
               "SupportedLanguages": [
                 "en",
@@ -25623,6 +25665,48 @@
               }
             },
             {
+              "Identification": "M02M0940",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403333"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Midsummer Place",
+                  "TownName": "Milton Keynes",
+                  "Country": "GB",
+                  "PostCode": "MK9 3GB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.040989",
+                      "Longitude": "-0.75721"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M0946",
               "SupportedLanguages": [
                 "en",
@@ -35974,6 +36058,48 @@
               }
             },
             {
+              "Identification": "M03M0941",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403333"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Midsummer Place",
+                  "TownName": "Milton Keynes",
+                  "Country": "GB",
+                  "PostCode": "MK9 3GB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.040989",
+                      "Longitude": "-0.75721"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M0947",
               "SupportedLanguages": [
                 "en",
@@ -43165,6 +43291,48 @@
               }
             },
             {
+              "Identification": "M04M0942",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403333"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Midsummer Place",
+                  "TownName": "Milton Keynes",
+                  "Country": "GB",
+                  "PostCode": "MK9 3GB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.040989",
+                      "Longitude": "-0.75721"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M0948",
               "SupportedLanguages": [
                 "en",
@@ -46858,6 +47026,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.407586",
                       "Longitude": "-1.509559"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M0943",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403333"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "MILTON KEYNES MIDSUMMER PLACE"
+                },
+                "PostalAddress": {
+                  "StreetName": "19 Midsummer Place",
+                  "TownName": "Milton Keynes",
+                  "Country": "GB",
+                  "PostCode": "MK9 3GB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.040989",
+                      "Longitude": "-0.75721"
                     }
                   }
                 }
