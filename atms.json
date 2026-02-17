@@ -1,7 +1,7 @@
 {
   "meta": {
     "LastUpdated": "2026-02-02T11:59:47.841Z",
-    "TotalResults": 1216,
+    "TotalResults": 1211,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -17760,48 +17760,6 @@
               }
             },
             {
-              "Identification": "M01M1543",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403032"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LUTON GEORGE STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "63 George Street",
-                  "TownName": "Luton",
-                  "Country": "GB",
-                  "PostCode": "LU1 2AR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.8791989",
-                      "Longitude": "-0.4165636"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1549",
               "SupportedLanguages": [
                 "en",
@@ -30295,48 +30253,6 @@
               }
             },
             {
-              "Identification": "M02M1544",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403032"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LUTON GEORGE STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "63 George Street",
-                  "TownName": "Luton",
-                  "Country": "GB",
-                  "PostCode": "LU1 2AR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.8791989",
-                      "Longitude": "-0.4165636"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1550",
               "SupportedLanguages": [
                 "en",
@@ -39633,48 +39549,6 @@
               }
             },
             {
-              "Identification": "M03M1545",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403032"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LUTON GEORGE STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "63 George Street",
-                  "TownName": "Luton",
-                  "Country": "GB",
-                  "PostCode": "LU1 2AR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.8791989",
-                      "Longitude": "-0.4165636"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1557",
               "SupportedLanguages": [
                 "en",
@@ -45393,48 +45267,6 @@
               }
             },
             {
-              "Identification": "M04M1546",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403032"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LUTON GEORGE STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "63 George Street",
-                  "TownName": "Luton",
-                  "Country": "GB",
-                  "PostCode": "LU1 2AR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.8791989",
-                      "Longitude": "-0.4165636"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M1558",
               "SupportedLanguages": [
                 "en",
@@ -48204,48 +48036,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.584702",
                       "Longitude": "-1.981345"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M05M1547",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "403032"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "LUTON GEORGE STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "63 George Street",
-                  "TownName": "Luton",
-                  "Country": "GB",
-                  "PostCode": "LU1 2AR",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.8791989",
-                      "Longitude": "-0.4165636"
                     }
                   }
                 }
