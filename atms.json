@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-02-16T11:37:58.620Z",
-    "TotalResults": 1211,
+    "LastUpdated": "2026-02-23T12:01:01.510Z",
+    "TotalResults": 1214,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -4615,6 +4615,46 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.859062",
                       "Longitude": "-3.055763"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1115",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400914"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARROW IN FURNESS"
+                },
+                "PostalAddress": {
+                  "StreetName": "104 Duke Street",
+                  "TownName": "Barrow-In-Furness",
+                  "Country": "GB",
+                  "PostCode": "LA14 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.113541",
+                      "Longitude": "-3.230338"
                     }
                   }
                 }
@@ -14468,6 +14508,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.859062",
                       "Longitude": "-3.055763"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1113",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400914"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARROW IN FURNESS"
+                },
+                "PostalAddress": {
+                  "StreetName": "104 Duke Street",
+                  "TownName": "Barrow-In-Furness",
+                  "Country": "GB",
+                  "PostCode": "LA14 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.113541",
+                      "Longitude": "-3.230338"
                     }
                   }
                 }
@@ -27048,6 +27130,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.859062",
                       "Longitude": "-3.055763"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M02M1114",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "400914"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "BARROW IN FURNESS"
+                },
+                "PostalAddress": {
+                  "StreetName": "104 Duke Street",
+                  "TownName": "Barrow-In-Furness",
+                  "Country": "GB",
+                  "PostCode": "LA14 1LR",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "54.113541",
+                      "Longitude": "-3.230338"
                     }
                   }
                 }
