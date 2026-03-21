@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-03-19T10:56:40.688Z",
-    "TotalResults": 1210,
+    "LastUpdated": "2026-03-19T10:56:36.467Z",
+    "TotalResults": 1208,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -649,46 +649,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.698994",
                       "Longitude": "-1.295531"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A24A1528",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401874"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HSBC 8CS RECEPTION "
-                },
-                "PostalAddress": {
-                  "StreetName": "8 Canada Square",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "E14 5HQ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5054315",
-                      "Longitude": "-0.0174404"
                     }
                   }
                 }
@@ -6142,46 +6102,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.515647",
                       "Longitude": "-0.140027"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A1527",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401874"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HSBC 8CS RECEPTION "
-                },
-                "PostalAddress": {
-                  "StreetName": "8 Canada Square",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "E14 5HQ",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.5054315",
-                      "Longitude": "-0.0174404"
                     }
                   }
                 }
