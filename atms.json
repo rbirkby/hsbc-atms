@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-04-09T10:47:05.717Z",
-    "TotalResults": 1215,
+    "LastUpdated": "2026-04-13T12:12:38.635Z",
+    "TotalResults": 1221,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -18558,6 +18558,48 @@
               }
             },
             {
+              "Identification": "M01M1637",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M1640",
               "SupportedLanguages": [
                 "en",
@@ -31136,6 +31178,48 @@
               }
             },
             {
+              "Identification": "M02M1636",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1641",
               "SupportedLanguages": [
                 "en",
@@ -40138,6 +40222,48 @@
               }
             },
             {
+              "Identification": "M03M1635",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1646",
               "SupportedLanguages": [
                 "en",
@@ -45647,6 +45773,48 @@
               }
             },
             {
+              "Identification": "M04M1634",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M1652",
               "SupportedLanguages": [
                 "en",
@@ -48422,6 +48590,48 @@
               }
             },
             {
+              "Identification": "M05M1633",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M05M1653",
               "SupportedLanguages": [
                 "en",
@@ -49678,6 +49888,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.482587",
                       "Longitude": "-2.24576"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M06M1638",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403509"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "NORWICH LONDON STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "18 London Street",
+                  "TownName": "Norwich",
+                  "Country": "GB",
+                  "PostCode": "NR2 1LG",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "52.628899",
+                      "Longitude": "1.294226"
                     }
                   }
                 }
