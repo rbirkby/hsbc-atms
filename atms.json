@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-04-13T12:12:38.635Z",
-    "TotalResults": 1221,
+    "LastUpdated": "2026-04-14T11:36:06.507Z",
+    "TotalResults": 1226,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -16241,6 +16241,48 @@
               }
             },
             {
+              "Identification": "M01M1324",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M1330",
               "SupportedLanguages": [
                 "en",
@@ -28777,6 +28819,48 @@
               }
             },
             {
+              "Identification": "M02M1325",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1335",
               "SupportedLanguages": [
                 "en",
@@ -38498,6 +38582,48 @@
               }
             },
             {
+              "Identification": "M03M1326",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1352",
               "SupportedLanguages": [
                 "en",
@@ -44595,6 +44721,48 @@
               }
             },
             {
+              "Identification": "M04M1327",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M1353",
               "SupportedLanguages": [
                 "en",
@@ -47742,6 +47910,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.797781",
                       "Longitude": "-1.547274"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M05M1328",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403725"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "PRESTON FISHERGATE"
+                },
+                "PostalAddress": {
+                  "StreetName": "49A Fishergate",
+                  "TownName": "Preston",
+                  "Country": "GB",
+                  "PostCode": "PR1 8BH",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.757292",
+                      "Longitude": "-2.70454"
                     }
                   }
                 }
