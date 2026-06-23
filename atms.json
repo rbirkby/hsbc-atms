@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-04-28T11:43:14.826Z",
-    "TotalResults": 1227,
+    "LastUpdated": "2026-06-22T11:38:00.939Z",
+    "TotalResults": 1223,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -128,46 +128,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.590001",
                       "Longitude": "-0.143975"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A24A0203",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400526"
-              },
-              "Location": {
-                "Site": {
-                  "Name": " 79 PICCADILLY"
-                },
-                "PostalAddress": {
-                  "StreetName": "79 Piccadilly",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1J 8EU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.506771",
-                      "Longitude": "-0.143198"
                     }
                   }
                 }
@@ -8156,48 +8116,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "54.893533",
                       "Longitude": "-2.934584"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M0202",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400526"
-              },
-              "Location": {
-                "Site": {
-                  "Name": " 79 PICCADILLY"
-                },
-                "PostalAddress": {
-                  "StreetName": "79 Piccadilly",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1J 8EU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.506771",
-                      "Longitude": "-0.143198"
                     }
                   }
                 }
@@ -21077,48 +20995,6 @@
               }
             },
             {
-              "Identification": "M02M0204",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400526"
-              },
-              "Location": {
-                "Site": {
-                  "Name": " 79 PICCADILLY"
-                },
-                "PostalAddress": {
-                  "StreetName": "79 Piccadilly",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1J 8EU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.506771",
-                      "Longitude": "-0.143198"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M0220",
               "SupportedLanguages": [
                 "en",
@@ -32938,48 +32814,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.362362",
                       "Longitude": "-0.192827"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M03M0205",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400526"
-              },
-              "Location": {
-                "Site": {
-                  "Name": " 79 PICCADILLY"
-                },
-                "PostalAddress": {
-                  "StreetName": "79 Piccadilly",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1J 8EU",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.506771",
-                      "Longitude": "-0.143198"
                     }
                   }
                 }
