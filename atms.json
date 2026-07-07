@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-06-22T11:38:00.939Z",
-    "TotalResults": 1223,
+    "LastUpdated": "2026-07-06T15:34:21.177Z",
+    "TotalResults": 1219,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -16919,48 +16919,6 @@
               }
             },
             {
-              "Identification": "M01M1417",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404527"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WATFORD HIGH STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "73 High Street",
-                  "TownName": "Watford",
-                  "Country": "GB",
-                  "PostCode": "WD17 2DS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.655441",
-                      "Longitude": "-0.395689"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1423",
               "SupportedLanguages": [
                 "en",
@@ -29286,48 +29244,6 @@
               }
             },
             {
-              "Identification": "M02M1418",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404527"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WATFORD HIGH STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "73 High Street",
-                  "TownName": "Watford",
-                  "Country": "GB",
-                  "PostCode": "WD17 2DS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.655441",
-                      "Longitude": "-0.395689"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1424",
               "SupportedLanguages": [
                 "en",
@@ -38795,48 +38711,6 @@
               }
             },
             {
-              "Identification": "M03M1419",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404527"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WATFORD HIGH STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "73 High Street",
-                  "TownName": "Watford",
-                  "Country": "GB",
-                  "PostCode": "WD17 2DS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.655441",
-                      "Longitude": "-0.395689"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1425",
               "SupportedLanguages": [
                 "en",
@@ -44844,48 +44718,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.558765",
                       "Longitude": "0.073833"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M04M1420",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404527"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WATFORD HIGH STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "73 High Street",
-                  "TownName": "Watford",
-                  "Country": "GB",
-                  "PostCode": "WD17 2DS",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.655441",
-                      "Longitude": "-0.395689"
                     }
                   }
                 }
