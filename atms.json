@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-07-06T15:34:22.110Z",
-    "TotalResults": 1219,
+    "LastUpdated": "2026-07-08T11:21:40.274Z",
+    "TotalResults": 1218,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -4856,46 +4856,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.534714",
                       "Longitude": "-2.419703"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A1172",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404168"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "DUMFRIES"
-                },
-                "PostalAddress": {
-                  "StreetName": "46 High Street",
-                  "TownName": "Dumfries",
-                  "Country": "GB",
-                  "PostCode": "DG1 2JA",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "55.0672641",
-                      "Longitude": "-3.6098682"
                     }
                   }
                 }
