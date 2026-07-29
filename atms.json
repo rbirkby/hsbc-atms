@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-07-27T14:19:14.520Z",
-    "TotalResults": 1225,
+    "LastUpdated": "2026-07-28T11:23:51.529Z",
+    "TotalResults": 1232,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -13802,6 +13802,48 @@
               }
             },
             {
+              "Identification": "M01M1038",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M01M1042",
               "SupportedLanguages": [
                 "en",
@@ -26508,6 +26550,48 @@
               }
             },
             {
+              "Identification": "M02M1036",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1045",
               "SupportedLanguages": [
                 "en",
@@ -36818,6 +36902,48 @@
               }
             },
             {
+              "Identification": "M03M1037",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M03M1041",
               "SupportedLanguages": [
                 "en",
@@ -43757,6 +43883,48 @@
               }
             },
             {
+              "Identification": "M04M1039",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M04M1046",
               "SupportedLanguages": [
                 "en",
@@ -49264,6 +49432,48 @@
               }
             },
             {
+              "Identification": "M05M1805",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M06M0011",
               "SupportedLanguages": [
                 "en",
@@ -50358,6 +50568,48 @@
               }
             },
             {
+              "Identification": "M06M1806",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M07M0410",
               "SupportedLanguages": [
                 "en",
@@ -50772,6 +51024,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.954102",
                       "Longitude": "-1.14727"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M07M1807",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "402247"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "GLASGOW BUCHANAN STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "2 Buchanan Street",
+                  "TownName": "Glasgow",
+                  "Country": "GB",
+                  "PostCode": "G1 3LB",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "55.858501",
+                      "Longitude": "-4.254375"
                     }
                   }
                 }
