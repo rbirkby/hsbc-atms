@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-08-05T14:38:16.311Z",
-    "TotalResults": 1232,
+    "LastUpdated": "2026-08-12T14:21:36.259Z",
+    "TotalResults": 1233,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -16997,6 +16997,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.574036",
                       "Longitude": "-3.220554"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1417",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "404527"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "WATFORD HIGH STREET"
+                },
+                "PostalAddress": {
+                  "StreetName": "73 High Street",
+                  "TownName": "Watford",
+                  "Country": "GB",
+                  "PostCode": "WD17 2DS",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "51.655441",
+                      "Longitude": "-0.395689"
                     }
                   }
                 }
