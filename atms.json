@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-09-15T12:51:47.924Z",
-    "TotalResults": 1234,
+    "LastUpdated": "2026-09-18T12:26:52.324Z",
+    "TotalResults": 1231,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -14263,48 +14263,6 @@
               }
             },
             {
-              "Identification": "M01M1081",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "Horsham",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.062374",
-                      "Longitude": "-0.32975"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1085",
               "SupportedLanguages": [
                 "en",
@@ -26969,48 +26927,6 @@
               }
             },
             {
-              "Identification": "M02M1082",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "Horsham",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.062374",
-                      "Longitude": "-0.32975"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1086",
               "SupportedLanguages": [
                 "en",
@@ -37272,48 +37188,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.508926",
                       "Longitude": "-0.593676"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M03M1083",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "402433"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "HORSHAM"
-                },
-                "PostalAddress": {
-                  "StreetName": "6 West Street",
-                  "TownName": "Horsham",
-                  "Country": "GB",
-                  "PostCode": "RH12 1PE",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.062374",
-                      "Longitude": "-0.32975"
                     }
                   }
                 }
