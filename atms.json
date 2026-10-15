@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-10-12T10:28:20.913Z",
-    "TotalResults": 1227,
+    "LastUpdated": "2026-10-14T11:57:27.889Z",
+    "TotalResults": 1231,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -4415,6 +4415,46 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.51519",
                       "Longitude": "-3.315486"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "A25A1064",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OLDHAM"
+                },
+                "PostalAddress": {
+                  "StreetName": "109 Union Street",
+                  "TownName": "Oldham",
+                  "Country": "GB",
+                  "PostCode": "OL1 1RT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.541187",
+                      "Longitude": "-2.109242"
                     }
                   }
                 }
@@ -14049,6 +14089,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.51519",
                       "Longitude": "-3.315486"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M01M1066",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OLDHAM"
+                },
+                "PostalAddress": {
+                  "StreetName": "109 Union Street",
+                  "TownName": "Oldham",
+                  "Country": "GB",
+                  "PostCode": "OL1 1RT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.541187",
+                      "Longitude": "-2.109242"
                     }
                   }
                 }
@@ -26719,6 +26801,48 @@
               }
             },
             {
+              "Identification": "M02M1067",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OLDHAM"
+                },
+                "PostalAddress": {
+                  "StreetName": "109 Union Street",
+                  "TownName": "Oldham",
+                  "Country": "GB",
+                  "PostCode": "OL1 1RT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.541187",
+                      "Longitude": "-2.109242"
+                    }
+                  }
+                }
+              }
+            },
+            {
               "Identification": "M02M1073",
               "SupportedLanguages": [
                 "en",
@@ -36980,6 +37104,48 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.386696",
                       "Longitude": "-2.34882"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Identification": "M03M1068",
+              "SupportedLanguages": [
+                "en",
+                "fr",
+                "es",
+                "de"
+              ],
+              "ATMServices": [
+                "CashWithdrawal",
+                "PINChange",
+                "PINActivation",
+                "PINUnblock",
+                "Balance",
+                "MiniStatement",
+                "ChequeDeposits",
+                "CashDeposits"
+              ],
+              "SupportedCurrencies": [
+                "GBP"
+              ],
+              "Branch": {
+                "Identification": "403526"
+              },
+              "Location": {
+                "Site": {
+                  "Name": "OLDHAM"
+                },
+                "PostalAddress": {
+                  "StreetName": "109 Union Street",
+                  "TownName": "Oldham",
+                  "Country": "GB",
+                  "PostCode": "OL1 1RT",
+                  "GeoLocation": {
+                    "GeographicCoordinates": {
+                      "Latitude": "53.541187",
+                      "Longitude": "-2.109242"
                     }
                   }
                 }
