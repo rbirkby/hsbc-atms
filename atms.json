@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-10-14T11:57:27.381Z",
-    "TotalResults": 1231,
+    "LastUpdated": "2026-11-13T13:02:36.800Z",
+    "TotalResults": 1219,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -6102,46 +6102,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "52.388763",
                       "Longitude": "-2.249323"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "A25A1514",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400516"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "OXFORD CIRCUS"
-                },
-                "PostalAddress": {
-                  "StreetName": "196 Oxford Street",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1D 1NT",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.515647",
-                      "Longitude": "-0.140027"
                     }
                   }
                 }
@@ -17633,48 +17593,6 @@
               }
             },
             {
-              "Identification": "M01M1510",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400516"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "OXFORD CIRCUS"
-                },
-                "PostalAddress": {
-                  "StreetName": "196 Oxford Street",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1D 1NT",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.515647",
-                      "Longitude": "-0.140027"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M01M1516",
               "SupportedLanguages": [
                 "en",
@@ -18047,48 +17965,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.347767",
                       "Longitude": "-2.97847"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M1565",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
                     }
                   }
                 }
@@ -30211,48 +30087,6 @@
               }
             },
             {
-              "Identification": "M02M1511",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400516"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "OXFORD CIRCUS"
-                },
-                "PostalAddress": {
-                  "StreetName": "196 Oxford Street",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1D 1NT",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.515647",
-                      "Longitude": "-0.140027"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M1517",
               "SupportedLanguages": [
                 "en",
@@ -30667,48 +30501,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.347767",
                       "Longitude": "-2.97847"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M02M1566",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
                     }
                   }
                 }
@@ -39592,48 +39384,6 @@
               }
             },
             {
-              "Identification": "M03M1512",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400516"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "OXFORD CIRCUS"
-                },
-                "PostalAddress": {
-                  "StreetName": "196 Oxford Street",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1D 1NT",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.515647",
-                      "Longitude": "-0.140027"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M1518",
               "SupportedLanguages": [
                 "en",
@@ -39964,48 +39714,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.347767",
                       "Longitude": "-2.97847"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M03M1567",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
                     }
                   }
                 }
@@ -45563,48 +45271,6 @@
               }
             },
             {
-              "Identification": "M04M1513",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "400516"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "OXFORD CIRCUS"
-                },
-                "PostalAddress": {
-                  "StreetName": "196 Oxford Street",
-                  "TownName": "London",
-                  "Country": "GB",
-                  "PostCode": "W1D 1NT",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "51.515647",
-                      "Longitude": "-0.140027"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M1519",
               "SupportedLanguages": [
                 "en",
@@ -45767,48 +45433,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "51.069298",
                       "Longitude": "-1.796516"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M04M1568",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
                     }
                   }
                 }
@@ -48716,48 +48340,6 @@
               }
             },
             {
-              "Identification": "M05M1569",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M05M1581",
               "SupportedLanguages": [
                 "en",
@@ -50188,48 +49770,6 @@
               }
             },
             {
-              "Identification": "M06M1570",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M06M1638",
               "SupportedLanguages": [
                 "en",
@@ -50770,48 +50310,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.797781",
                       "Longitude": "-1.547274"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M07M1571",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "401156"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "MANCHESTER ST ANN'S"
-                },
-                "PostalAddress": {
-                  "StreetName": "2-4 St Ann's Square",
-                  "TownName": "Manchester",
-                  "Country": "GB",
-                  "PostCode": "M2 7HD",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "53.482587",
-                      "Longitude": "-2.24576"
                     }
                   }
                 }
