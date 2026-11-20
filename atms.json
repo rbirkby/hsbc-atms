@@ -1,7 +1,7 @@
 {
   "meta": {
-    "LastUpdated": "2026-11-13T13:02:36.575Z",
-    "TotalResults": 1219,
+    "LastUpdated": "2026-11-19T12:29:56.990Z",
+    "TotalResults": 1212,
     "Agreement": "Use of the APIs and any related data will be subject to the terms of the Open Licence and subject to terms and conditions",
     "License": "https://www.openbanking.org.uk/open-licence",
     "TermsOfUse": "https://www.openbanking.org.uk/terms"
@@ -9420,48 +9420,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "50.79958",
                       "Longitude": "-1.090663"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M01M0501",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
                     }
                   }
                 }
@@ -22384,48 +22342,6 @@
               }
             },
             {
-              "Identification": "M02M0496",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M02M0505",
               "SupportedLanguages": [
                 "en",
@@ -33660,48 +33576,6 @@
               }
             },
             {
-              "Identification": "M03M0497",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M03M0506",
               "SupportedLanguages": [
                 "en",
@@ -41863,48 +41737,6 @@
               }
             },
             {
-              "Identification": "M04M0498",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M04M0507",
               "SupportedLanguages": [
                 "en",
@@ -46405,48 +46237,6 @@
               }
             },
             {
-              "Identification": "M05M0499",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M05M0508",
               "SupportedLanguages": [
                 "en",
@@ -49138,48 +48928,6 @@
               }
             },
             {
-              "Identification": "M06M0502",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
-                    }
-                  }
-                }
-              }
-            },
-            {
               "Identification": "M06M0509",
               "SupportedLanguages": [
                 "en",
@@ -50142,48 +49890,6 @@
                     "GeographicCoordinates": {
                       "Latitude": "53.405697",
                       "Longitude": "-2.986504"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Identification": "M07M0503",
-              "SupportedLanguages": [
-                "en",
-                "fr",
-                "es",
-                "de"
-              ],
-              "ATMServices": [
-                "CashWithdrawal",
-                "PINChange",
-                "PINActivation",
-                "PINUnblock",
-                "Balance",
-                "MiniStatement",
-                "ChequeDeposits",
-                "CashDeposits"
-              ],
-              "SupportedCurrencies": [
-                "GBP"
-              ],
-              "Branch": {
-                "Identification": "404717"
-              },
-              "Location": {
-                "Site": {
-                  "Name": "WORCESTER BROAD STREET"
-                },
-                "PostalAddress": {
-                  "StreetName": "6-9 Broad Street",
-                  "TownName": "Worcester",
-                  "Country": "GB",
-                  "PostCode": "WR1 3LH",
-                  "GeoLocation": {
-                    "GeographicCoordinates": {
-                      "Latitude": "52.192966",
-                      "Longitude": "-2.222098"
                     }
                   }
                 }
